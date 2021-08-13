@@ -14,6 +14,3 @@ Booth通知サーバーの設定ファイル用リポジトリです。
 | minPrice | これ以下の商品は通知されません、通常は0です。|
 | minLike | これ以下の商品は通知されません、通常は0です。|
 | channelId | *ここの入力は必要ありません。開発者が入力します。* |
-
-![image](https://user-images.githubusercontent.com/51302983/129365187-796af912-9899-4dd7-af9a-17a6c87c1af2.png)  
-![image](https://user-images.githubusercontent.com/51302983/129365245-ad113ac8-d241-4701-ad44-9929efa01217.png)
