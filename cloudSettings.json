@@ -739,6 +739,29 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 872090215475458078
+    },
+    {
+      "id": "LimitedTime",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "categories": [
+        "3Dモデル",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "期間限定",
+        "LimitedTime",
+        "Limited Time",
+        "限定"
+      ],
+      "productNames": [        
+      ],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 876095790882373632
     }
   ]
 }
