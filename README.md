@@ -1,6 +1,7 @@
 ## booth-analytics-public
-Booth通知サーバーの設定ファイル用リポジトリです。  
-利用者の方でも設定ファイルを変更する事ができます。  
+Booth通知サーバーの設定ファイル用リポジトリです。 <br> 
+利用者の方でも設定ファイルを変更する事ができます。<br>
+**cloudSettings.jsonを編集してください。<br>https://github.com/aijkl/booth-analytics-public/blob/main/cloudSettings.json**<br>
 | Key | Description |
 ----|---- 
 | id | 一意なID。 |
@@ -15,7 +16,7 @@ Booth通知サーバーの設定ファイル用リポジトリです。
 | minLike | これ以下の商品は通知されません、通常は0です。|
 | channelId | *ここの入力は必要ありません。開発者が入力します。* |  
 
-設定ファイルの更新の仕組みです。  
-定期的に変更が取り込まれているのでプルリクが承認されてから数分で適応されます。
+設定ファイルの更新の仕組みです。<br>
+定期的に変更が取り込まれているのでプルリクが承認されてから数分で適応されます。<br>
 ![portalmaker-3](https://user-images.githubusercontent.com/51302983/129369641-0c17b441-72bd-4da6-92a8-b34b1e405265.png)
 
