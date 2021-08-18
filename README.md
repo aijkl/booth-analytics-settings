@@ -1,7 +1,7 @@
 ## booth-analytics-public
 Booth通知サーバーの設定ファイル用リポジトリです。 <br> 
 利用者の方でも設定ファイルを変更する事ができます。<br>
-**cloudSettings.jsonを編集してください。<br>https://github.com/aijkl/booth-analytics-public/blob/main/cloudSettings.json**<br>
+**cloudSettings.jsonを編集してください。<br>https://github.com/aijkl/booth-analytics-settings/blob/main/cloudSettings.json**<br>
 | Key | Description |
 ----|---- 
 | id | 一意なID。 |
