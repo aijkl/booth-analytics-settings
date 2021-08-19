@@ -761,6 +761,28 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 876095790882373632
+    },
+    {
+      "id": "宙猫",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "categories": [
+        "3Dモデル",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "3046011"
+      ],
+      "productNames": [
+        "宙猫",
+        "Soraneco"
+      ],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 877875782305845289
     }
   ]
 }
