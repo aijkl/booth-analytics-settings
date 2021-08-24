@@ -783,6 +783,28 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 877875782305845289
+    },
+    {
+      "id": "メープル",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "categories": [
+        "3Dモデル",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "1948102"
+      ],
+      "productNames": [
+        "メープル",
+        "Maple"
+      ],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 879702480961831012
     }
   ]
 }
