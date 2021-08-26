@@ -12,6 +12,7 @@
   "footerText": "From BoothDB",
   "gameStatusText": "BoothDB",
   "notifiedDataKeepDays": 7,
+  "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
   "relevanceEvaluationKeywords": [
     "用",
     "オリジナル"
@@ -534,7 +535,7 @@
         "3016885"
       ],
       "productNames": [
-        "透羽"        
+        "透羽"
       ],
       "minPrice": 0,
       "minLike": 0,
@@ -756,7 +757,7 @@
         "Limited Time",
         "限定"
       ],
-      "productNames": [        
+      "productNames": [
       ],
       "minPrice": 0,
       "minLike": 0,
