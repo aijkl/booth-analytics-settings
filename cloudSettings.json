@@ -5,6 +5,7 @@
   "modifyIntervalMilliSeconds": 300,
   "guildId": 858188499270369322,
   "exceptionChannelId": 863343940249714709,
+  "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
   "modifyStartPage": 1,
   "modifyEndPage": 3,
   "notifyStartPage": 1,
@@ -556,7 +557,7 @@
         "3016885"
       ],
       "productNames": [
-        "透羽"        
+        "透羽"
       ],
       "minPrice": 0,
       "minLike": 0,
@@ -778,7 +779,7 @@
         "Limited Time",
         "限定"
       ],
-      "productNames": [        
+      "productNames": [
       ],
       "minPrice": 0,
       "minLike": 0,
@@ -827,6 +828,28 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 880986146824400897
+    },
+    {
+      "id": "メープル",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "categories": [
+        "3Dモデル",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "1948102"
+      ],
+      "productNames": [
+        "メープル",
+        "Maple"
+      ],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 879702480961831012
     }
   ]
 }
