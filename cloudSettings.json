@@ -290,7 +290,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1255054"
@@ -311,7 +313,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2709610"
@@ -333,7 +337,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1336133"
@@ -355,7 +361,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2780069"
@@ -377,7 +385,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2559783"
@@ -399,7 +409,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1255283"
@@ -420,7 +432,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2721156"
@@ -442,7 +456,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "954376"
@@ -464,7 +480,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2146588"
@@ -486,7 +504,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2158487"
@@ -508,7 +528,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2630437"
@@ -529,7 +551,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3107492"
@@ -551,7 +575,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3016885"
@@ -571,7 +597,8 @@
       "excludeKeywords": [
         "うどん猫",
         "販売ワールド",
-        "Yudono"
+        "Yudono",
+        "vroid"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -638,7 +665,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3123433"
@@ -660,7 +689,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2910697"
@@ -680,7 +711,7 @@
       "categories": [
         "3Dモデル"
       ],
-      "excludeKeywords": [
+      "excludeKeywords": [        
       ],
       "titleKeywords": [
         "オリジナル3Dモデル",
@@ -703,7 +734,8 @@
       "categories": [
         "3Dモデル"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [        
+      ],
       "titleKeywords": [
       ],
       "keywords": [
@@ -727,7 +759,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3153754"
@@ -749,7 +783,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2495796"
@@ -771,7 +807,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "期間限定",
@@ -794,7 +832,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3046011"
@@ -816,7 +856,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3203894"
@@ -838,7 +880,9 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "vroid"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1948102"
