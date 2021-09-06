@@ -545,7 +545,7 @@
     {
       "id": "しいか",
       "sql": "",
-      "useAvatarRelevanceEvaluation": true,
+      "useAvatarRelevanceEvaluation": false,
       "categories": [
         "3Dモデル",
         "ゲーム関連商品",
@@ -554,13 +554,14 @@
       "excludeKeywords": [
         "vroid"
       ],
-      "titleKeywords": [],
+      "titleKeywords": [
+        "しいか",
+        "Shika"
+      ],
       "keywords": [
         "3107492"
       ],
       "productNames": [
-        "しいか",
-        "Shika"
       ],
       "minPrice": 0,
       "minLike": 0,
