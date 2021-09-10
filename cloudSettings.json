@@ -916,6 +916,22 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 882120767414870067
+    },
+    {
+      "id": "新着順",
+      "sql": "SELECT * FROM products",
+      "useAvatarRelevanceEvaluation": false,
+      "categories": [        
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [        
+      ],
+      "productNames": [        
+      ],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 885810966460235777
     }
   ]
 }
