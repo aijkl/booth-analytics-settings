@@ -932,6 +932,22 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 885810966460235777
+    },
+    {
+      "id": "アダルト",
+      "sql": "SELECT * FROM products WHERE products.is_adult == true",
+      "useAvatarRelevanceEvaluation": false,
+      "categories": [        
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [        
+      ],
+      "productNames": [        
+      ],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 886850027299950593
     }
   ]
 }
