@@ -906,7 +906,7 @@
         "productNames": [          
         ],
         "minPrice": 0,
-        "minLike": 100,
+        "minLike": 20,
         "channelId": 889778736038309938
     },
     {
