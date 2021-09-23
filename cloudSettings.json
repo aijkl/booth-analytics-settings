@@ -925,6 +925,26 @@
         "minPrice": 0,
         "minLike": 0,
         "channelId": 889779032508477491
+    },
+    {
+        "id": "イメリス",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+          "3Dキャラクター"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [       
+          "3040745"
+        ],
+        "productNames": [          
+          "イメリス",
+          "Imeris"
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 890423987564331049
     }
   ]
 }
