@@ -737,18 +737,18 @@
       "id": "LimitedTime",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "categories": [
-          "3Dキャラクター"        
+      "categories": [          
       ],
       "excludeKeywords": [
         "vroid"
       ],
       "titleKeywords": [],
-      "keywords": [
-        "期間限定",
+      "keywords": [        
         "LimitedTime",
         "Limited Time",
-        "限定"
+        "限定",
+        "特別",
+        "期間"
       ],
       "productNames": [
       ],
