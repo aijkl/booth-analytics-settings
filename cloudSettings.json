@@ -1129,6 +1129,46 @@
         "minPrice": 0,
         "minLike": 0,
         "channelId": 891144299473928194
+    },
+    {
+        "id": "ユキ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3Dキャラクター"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "2198694"
+        ],
+        "productNames": [
+            "ユキ",
+            "Yuki"
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 892765190951665715
+    },
+    {
+        "id": "ニャスカ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3Dキャラクター"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "3162874"
+        ],
+        "productNames": [
+            "ニャスカ",
+            "Nyasuka"
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 892765453326364734
     }
   ]
 }
