@@ -1,10 +1,10 @@
 {
     "keyword": "VRChat",
     "fetchIntervalMilliSeconds": 10000,
-    "updateIntervalMilliSeconds": 1000000,
+    "updateIntervalMilliSeconds": 1800000,
     "modifyIntervalMilliSeconds": 300,
-    "guildId": 858188499270369300,
-    "exceptionChannelId": 863343940249714700,
+    "guildId": 858188499270369322,
+    "exceptionChannelId": 863343940249714709,
     "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
     "modifyStartPage": 1,
     "modifyEndPage": 3,
@@ -14,1182 +14,1202 @@
     "gameStatusText": "BoothDB",
     "notifiedDataKeepDays": 7,
     "relevanceEvaluationKeywords": [
-        "用",
-        "オリジナル"
+      "用",
+      "オリジナル"
     ],
     "notificationRules": [
-        {
-            "id": "lsbody",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2018942"
-            ],
-            "productNames": [
-                "lsbody"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863253490369167400
-        },
-        {
-            "id": "幽狐",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1484117"
-            ],
-            "productNames": [
-                "幽狐",
-                "Yuko"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 858189387681759200
-        },
-        {
-            "id": "狐雪",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2554585"
-            ],
-            "productNames": [
-                "Koyuki",
-                "狐雪"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863263826442977300
-        },
-        {
-            "id": "ミーシェ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1256087"
-            ],
-            "productNames": [
-                "Mishe",
-                "ミーシェ"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275121909039100
-        },
-        {
-            "id": "京狐",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1826902"
-            ],
-            "productNames": [
-                "Kyoko",
-                "京狐"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275176984051700
-        },
-        {
-            "id": "スノウエルフ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1202638"
-            ],
-            "productNames": [
-                "SnowElf",
-                "スノウエルフ"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275250569183200
-        },
-        {
-            "id": "メリノ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2351859"
-            ],
-            "productNames": [
-                "メリノ",
-                "Merino"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275294131880000
-        },
-        {
-            "id": "リーメリーバ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "972559"
-            ],
-            "productNames": [
-                "リーメリーバ",
-                "Leeme",
-                "Reeva"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275400150253700
-        },
-        {
-            "id": "Noy",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1572406"
-            ],
-            "productNames": [
-                "Noy"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275443850575900
-        },
-        {
-            "id": "薄荷",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2215270"
-            ],
-            "productNames": [
-                "薄荷",
-                "Hakka"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275542006464500
-        },
-        {
-            "id": "CyberCat",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1333754"
-            ],
-            "productNames": [
-                "CyberCat",
-                "サイバーキャット"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275578546061300
-        },
-        {
-            "id": "Lua",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1255054"
-            ],
-            "productNames": [
-                "Lua"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275611584725000
-        },
-        {
-            "id": "ウルフェリア",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2709610"
-            ],
-            "productNames": [
-                "ウルフェリア",
-                "Wolferia"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275658997399600
-        },
-        {
-            "id": "みみの",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1336133"
-            ],
-            "productNames": [
-                "みみの",
-                "Mimino"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275690019127300
-        },
-        {
-            "id": "ここあ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2780069"
-            ],
-            "productNames": [
-                "ここあ",
-                "Kokoa"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275737997508600
-        },
-        {
-            "id": "ラスク",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2559783"
-            ],
-            "productNames": [
-                "ラスク",
-                "Rusk"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275780103864300
-        },
-        {
-            "id": "ファジー",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1255283"
-            ],
-            "productNames": [
-                "ファジー"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275816582643700
-        },
-        {
-            "id": "ルシナ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2721156"
-            ],
-            "productNames": [
-                "ルシナ",
-                "Rusina"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275880533196800
-        },
-        {
-            "id": "キッシュ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "954376"
-            ],
-            "productNames": [
-                "キッシュ",
-                "Kisshu"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863275920337272800
-        },
-        {
-            "id": "リアアリス",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2146588"
-            ],
-            "productNames": [
-                "リアアリス",
-                "RearAlice"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863276042759045100
-        },
-        {
-            "id": "ショコラメイド",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2158487"
-            ],
-            "productNames": [
-                "ショコラメイド",
-                "ShokoraMaid"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863276078419804300
-        },
-        {
-            "id": "イヨ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2630437"
-            ],
-            "productNames": [
-                "イヨ"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863276122425655300
-        },
-        {
-            "id": "しいか",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [
-                "しいか",
-                "Shika"
-            ],
-            "keywords": [
-                "3107492"
-            ],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 863693482013884400
-        },
-        {
-            "id": "透羽",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "3016885"
-            ],
-            "productNames": [
-                "透羽"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 864852232049524700
-        },
-        {
-            "id": "udon",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [],
-            "excludeKeywords": [
-                "うどん猫",
-                "販売ワールド",
-                "Yudono",
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "Udonsharp",
-                "Udon"
-            ],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 0,
-            "channelId": 863685622854189000
-        },
-        {
-            "id": "ツール",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "ソフトウェア",
-                "ゲーム関連商品",
-                "素材（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "ツール",
-                "Tool"
-            ],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 0,
-            "channelId": 863693612919291900
-        },
-        {
-            "id": "like50",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 50,
-            "channelId": 863700227546677200
-        },
-        {
-            "id": "like100",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 100,
-            "channelId": 863700080450863100
-        },
-        {
-            "id": "ティコ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "3123433"
-            ],
-            "productNames": [
-                "ティコ",
-                "Tycho"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 867674654248665100
-        },
-        {
-            "id": "ルエナ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2910697"
-            ],
-            "productNames": [
-                "ルエナ",
-                "Luena"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 868276308747124700
-        },
-        {
-            "id": "新着アバター(良いね数)",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "3Dキャラクター"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 100,
-            "channelId": 869793035217666000
-        },
-        {
-            "id": "新着アバター(値段)",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "3Dキャラクター"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 2500,
-            "minLike": 0,
-            "channelId": 869803574450872400
-        },
-        {
-            "id": "Hiina",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "3153754"
-            ],
-            "productNames": [
-                "ヒイナ",
-                "Hiina"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 870107776372834300
-        },
-        {
-            "id": "レイニィ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "2495796"
-            ],
-            "productNames": [
-                "レイニィ",
-                "Rainy"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 872090215475458000
-        },
-        {
-            "id": "LimitedTime",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "LimitedTime",
-                "Limited Time",
-                "限定",
-                "特別",
-                "期間"
-            ],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 0,
-            "channelId": 876095790882373600
-        },
-        {
-            "id": "宙猫",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "3046011"
-            ],
-            "productNames": [
-                "宙猫",
-                "Soraneco"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 877875782305845200
-        },
-        {
-            "id": "杏里",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "3203894"
-            ],
-            "productNames": [
-                "杏里",
-                "Anri"
-            ],
-            "minPrice": 0,
-            "minLike": 0,
-            "channelId": 880986146824400900
-        },
-        {
-            "id": "メープル",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "1948102"
-            ],
-            "productNames": [
-                "メープル"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 879702480961831000
-        },
-        {
-            "id": "シアノス",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [
-                "vroid"
-            ],
-            "titleKeywords": [],
-            "keywords": [
-                "3224415"
-            ],
-            "productNames": [
-                "シアノス",
-                "ドラゴニュート"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 882120767414870000
-        },
-        {
-            "id": "新着順",
-            "sql": "SELECT * FROM products",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 885810966460235800
-        },
-        {
-            "id": "アダルト",
-            "sql": "SELECT * FROM products WHERE products.is_adult == true",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 0,
-            "channelId": 886850027299950600
-        },
-        {
-            "id": "Props",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "3D小道具"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 30,
-            "channelId": 889777895529140200
-        },
-        {
-            "id": "World",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "3D環境・ワールド"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 20,
-            "channelId": 889778736038309900
-        },
-        {
-            "id": "Vroid",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": false,
-            "categories": [
-                "VRoid"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [],
-            "productNames": [],
-            "minPrice": 0,
-            "minLike": 0,
-            "channelId": 889779032508477400
-        },
-        {
-            "id": "イメリス",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "3040745"
-            ],
-            "productNames": [
-                "イメリス",
-                "Imeris"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 890423987564331000
-        },
-        {
-            "id": "のらきゃっと",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "1216498"
-            ],
-            "productNames": [
-                "のらきゃっと",
-                "ノラキャット",
-                "ますきゃっと",
-                "マスキャット",
-                "Masscat"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891140533731360800
-        },
-        {
-            "id": "セフィラ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "2953001"
-            ],
-            "productNames": [
-                "セフィラ",
-                "Sephira"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891140725335523300
-        },
-        {
-            "id": "フィリナ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "1577042"
-            ],
-            "productNames": [
-                "フィリナ",
-                "ふぃりな",
-                "Firina"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891141118840938500
-        },
-        {
-            "id": "狐薄",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "2616595"
-            ],
-            "productNames": [
-                "狐薄",
-                "こはく",
-                "Kohaku"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891141410504470700
-        },
-        {
-            "id": "猫山苗",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "2381911"
-            ],
-            "productNames": [
-                "猫山苗",
-                "Nekoyama",
-                "ねこやま"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891141951146045400
-        },
-        {
-            "id": "リンツ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "1255264"
-            ],
-            "productNames": [
-                "リンツ",
-                "Linz"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891142203752198100
-        },
-        {
-            "id": "ユウ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "2417889"
-            ],
-            "productNames": [
-                "ユウ"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891142576218996700
-        },
-        {
-            "id": "Grus",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "3190100"
-            ],
-            "productNames": [
-                "Grus"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891142915970199600
-        },
-        {
-            "id": "Iris",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "3299594"
-            ],
-            "productNames": [
-                "イリス",
-                "Iris"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 891144299473928200
-        },
-        {
-            "id": "ユキ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "2198694"
-            ],
-            "productNames": [
-                "ユキ"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 892765190951665700
-        },
-        {
-            "id": "ニャスカ",
-            "sql": "",
-            "useAvatarRelevanceEvaluation": true,
-            "categories": [
-                "3D衣装・装飾品",
-                "3Dモデル（その他）"
-            ],
-            "excludeKeywords": [],
-            "titleKeywords": [],
-            "keywords": [
-                "3162874"
-            ],
-            "productNames": [
-                "ニャスカ",
-                "Nyasuka"
-            ],
-            "minPrice": 0,
-            "minLike": 10,
-            "channelId": 892765453326364700
-        }
+      {
+        "id": "lsbody",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+          "3D衣装・装飾品",
+          "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2018942"
+        ],
+        "productNames": [
+          "lsbody"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863253490369167381
+      },
+      {
+        "id": "幽狐",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1484117"
+        ],
+        "productNames": [
+          "幽狐",
+          "Yuko"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 858189387681759232
+      },
+      {
+        "id": "狐雪",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2554585"
+        ],
+        "productNames": [
+          "Koyuki",
+          "狐雪"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863263826442977280
+      },
+      {
+        "id": "ミーシェ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1256087"
+        ],
+        "productNames": [
+          "Mishe",
+          "ミーシェ"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275121909039114
+      },
+      {
+        "id": "京狐",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1826902"
+        ],
+        "productNames": [
+          "Kyoko",
+          "京狐"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275176984051762
+      },
+      {
+        "id": "スノウエルフ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1202638"
+        ],
+        "productNames": [
+          "SnowElf",
+          "スノウエルフ"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275250569183282
+      },
+      {
+        "id": "メリノ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2351859"
+        ],
+        "productNames": [
+          "メリノ",
+          "Merino"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275294131879956
+      },
+      {
+        "id": "リーメリーバ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "972559"
+        ],
+        "productNames": [
+          "リーメリーバ",
+          "Leeme",
+          "Reeva"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275400150253648
+      },
+      {
+        "id": "Noy",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1572406"
+        ],
+        "productNames": [
+          "Noy"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275443850575892
+      },
+      {
+        "id": "薄荷",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2215270"
+        ],
+        "productNames": [
+          "薄荷",
+          "Hakka"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275542006464512
+      },
+      {
+        "id": "CyberCat",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1333754"
+        ],
+        "productNames": [
+          "CyberCat",
+          "サイバーキャット"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275578546061323
+      },
+      {
+        "id": "Lua",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1255054"
+        ],
+        "productNames": [
+          "Lua"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275611584724992
+      },
+      {
+        "id": "ウルフェリア",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2709610"
+        ],
+        "productNames": [
+          "ウルフェリア",
+          "Wolferia"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275658997399572
+      },
+      {
+        "id": "みみの",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1336133"
+        ],
+        "productNames": [
+          "みみの",
+          "Mimino"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275690019127337
+      },
+      {
+        "id": "ここあ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2780069"
+        ],
+        "productNames": [
+          "ここあ",
+          "Kokoa"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275737997508668
+      },
+      {
+        "id": "ラスク",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2559783"
+        ],
+        "productNames": [
+          "ラスク",
+          "Rusk"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275780103864330
+      },
+      {
+        "id": "ファジー",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1255283"
+        ],
+        "productNames": [
+          "ファジー"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275816582643742
+      },
+      {
+        "id": "ルシナ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2721156"
+        ],
+        "productNames": [
+          "ルシナ",
+          "Rusina"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275880533196850
+      },
+      {
+        "id": "キッシュ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "954376"
+        ],
+        "productNames": [
+          "キッシュ",
+          "Kisshu"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863275920337272852
+      },
+      {
+        "id": "リアアリス",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2146588"
+        ],
+        "productNames": [
+          "リアアリス",
+          "RearAlice"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863276042759045141
+      },
+      {
+        "id": "ショコラメイド",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2158487"
+        ],
+        "productNames": [
+          "ショコラメイド",
+          "ShokoraMaid"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863276078419804230
+      },
+      {
+        "id": "イヨ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2630437"
+        ],
+        "productNames": [
+          "イヨ"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863276122425655306
+      },
+      {
+        "id": "しいか",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+          "3D衣装・装飾品"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [
+          "しいか",
+          "Shika"
+        ],
+        "keywords": [
+          "3107492"
+        ],
+        "productNames": [
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 863693482013884417
+      },
+      {
+        "id": "透羽",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "3016885"
+        ],
+        "productNames": [
+          "透羽"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 864852232049524756
+      },
+      {
+        "id": "udon",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [],
+        "excludeKeywords": [
+          "うどん猫",
+          "販売ワールド",
+          "Yudono",
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "Udonsharp",
+          "Udon"
+        ],
+        "productNames": [],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 863685622854189056
+      },
+      {
+        "id": "ツール",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+          "ソフトウェア",
+          "ゲーム関連商品",
+          "素材（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+          "ツール",
+          "Tool"
+        ],
+        "productNames": [],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 863693612919291904
+      },
+      {
+        "id": "like50",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [],
+        "productNames": [],
+        "minPrice": 0,
+        "minLike": 50,
+        "channelId": 863700227546677288
+      },
+      {
+        "id": "like100",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [],
+        "productNames": [],
+        "minPrice": 0,
+        "minLike": 100,
+        "channelId": 863700080450863104
+      },
+      {
+        "id": "ティコ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "3123433"
+        ],
+        "productNames": [
+          "ティコ",
+          "Tycho"
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 867674654248665128
+      },
+      {
+        "id": "ルエナ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2910697"
+        ],
+        "productNames": [
+          "ルエナ",
+          "Luena"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 868276308747124757
+      },
+      {
+        "id": "新着アバター(良いね数)",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+          "3Dキャラクター"
+        ],
+        "excludeKeywords": [        
+        ],
+        "titleKeywords": [       
+        ],
+        "keywords": [       
+        ],
+        "productNames": [],
+        "minPrice": 0,
+        "minLike": 100,
+        "channelId": 869793035217666109
+      },
+      {
+        "id": "新着アバター(値段)",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+          "3Dキャラクター"
+        ],
+        "excludeKeywords": [        
+        ],
+        "titleKeywords": [
+        ],
+        "keywords": [
+        ],
+        "productNames": [],
+        "minPrice": 2500,
+        "minLike": 0,
+        "channelId": 869803574450872391
+      },
+      {
+        "id": "Hiina",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+          "3D衣装・装飾品"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "3153754"
+        ],
+        "productNames": [
+          "ヒイナ",
+          "Hiina"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 870107776372834334
+      },
+      {
+        "id": "レイニィ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "2495796"
+        ],
+        "productNames": [
+          "レイニィ",
+          "Rainy"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 872090215475458078
+      },
+      {
+        "id": "LimitedTime",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [          
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [        
+          "LimitedTime",
+          "Limited Time",
+          "限定",
+          "特別",
+          "期間"
+        ],
+        "productNames": [
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 876095790882373632
+      },
+      {
+        "id": "宙猫",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "3046011"
+        ],
+        "productNames": [
+          "宙猫",
+          "Soraneco"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 877875782305845289
+      },
+      {
+        "id": "杏里",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "3203894"
+        ],
+        "productNames": [
+          "杏里",
+          "Anri"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 880986146824400897
+      },
+      {
+        "id": "メープル",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+          "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "1948102"
+        ],
+        "productNames": [
+          "メープル"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 879702480961831012
+      },
+      {
+        "id": "シアノス",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [
+            "vroid"
+        ],
+        "titleKeywords": [],
+        "keywords": [
+          "3224415"
+        ],
+        "productNames": [
+          "シアノス",
+          "ドラゴニュート"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 882120767414870067
+      },
+      {
+        "id": "新着順",
+        "sql": "SELECT * FROM products",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [        
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [        
+        ],
+        "productNames": [        
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 885810966460235777
+      },
+      {
+        "id": "アダルト",
+        "sql": "SELECT * FROM products WHERE products.is_adult == true",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [        
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [        
+        ],
+        "productNames": [        
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 886850027299950593
+      },
+      {
+          "id": "Props",
+          "sql": "",
+          "useAvatarRelevanceEvaluation": false,
+          "categories": [
+            "3D小道具"
+          ],
+          "excludeKeywords": [],
+          "titleKeywords": [],
+          "keywords": [          
+          ],
+          "productNames": [          
+          ],
+          "minPrice": 0,
+          "minLike": 30,
+          "channelId": 889777895529140245
+      },
+      {
+          "id": "World",
+          "sql": "",
+          "useAvatarRelevanceEvaluation": false,
+          "categories": [
+            "3D環境・ワールド"
+          ],
+          "excludeKeywords": [],
+          "titleKeywords": [],
+          "keywords": [          
+          ],
+          "productNames": [          
+          ],
+          "minPrice": 0,
+          "minLike": 20,
+          "channelId": 889778736038309938
+      },
+      {
+          "id": "Vroid",
+          "sql": "",
+          "useAvatarRelevanceEvaluation": false,
+          "categories": [
+            "VRoid"
+          ],
+          "excludeKeywords": [],
+          "titleKeywords": [],
+          "keywords": [          
+          ],
+          "productNames": [          
+          ],
+          "minPrice": 0,
+          "minLike": 0,
+          "channelId": 889779032508477491
+      },
+      {
+          "id": "イメリス",
+          "sql": "",
+          "useAvatarRelevanceEvaluation": true,
+          "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+          ],
+          "excludeKeywords": [],
+          "titleKeywords": [],
+          "keywords": [       
+            "3040745"
+          ],
+          "productNames": [          
+            "イメリス",
+            "Imeris"
+          ],
+          "minPrice": 0,
+          "minLike": 0,
+          "channelId": 890423987564331049
+      },
+      {
+        "id": "のらきゃっと",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "1216498"
+        ],
+        "productNames": [
+            "のらきゃっと",
+            "ノラキャット",
+            "ますきゃっと",
+            "マスキャット",
+            "Masscat"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891140533731360768
+    },
+    {
+        "id": "セフィラ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "2953001"
+        ],
+        "productNames": [
+            "セフィラ",
+            "Sephira"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891140725335523328
+    },
+    {
+        "id": "フィリナ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "1577042"
+        ],
+        "productNames": [
+            "フィリナ",
+            "ふぃりな",
+            "Firina"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891141118840938536
+    },
+    {
+        "id": "狐薄",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "2616595"
+        ],
+        "productNames": [
+            "狐薄",
+            "こはく",
+            "Kohaku"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891141410504470598
+    },
+    {
+        "id": "猫山苗",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "2381911"
+        ],
+        "productNames": [
+            "猫山苗",
+            "Nekoyama",
+            "ねこやま"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891141951146045470
+    },
+    {
+        "id": "リンツ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "1255264"
+        ],
+        "productNames": [
+            "リンツ",
+            "Linz"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891142203752198174
+    },
+    {
+        "id": "ユウ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "2417889"
+        ],
+        "productNames": [
+            "ユウ"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891142576218996756
+    },
+    {
+        "id": "Grus",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "3190100"
+        ],
+        "productNames": [
+            "Grus"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891142915970199552
+    },
+    {
+        "id": "Iris",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "3299594"
+        ],
+        "productNames": [
+            "イリス",
+            "Iris"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 891144299473928194
+    },
+    {
+        "id": "ユキ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "2198694"
+        ],
+        "productNames": [
+            "ユキ"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 892765190951665715
+    },
+    {
+        "id": "ニャスカ",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "3162874"
+        ],
+        "productNames": [
+            "ニャスカ",
+            "Nyasuka"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 892765453326364734
+    }
     ]
-}
+  }
