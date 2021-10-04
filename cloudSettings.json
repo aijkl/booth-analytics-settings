@@ -1254,6 +1254,42 @@
         "minPrice": 0,
         "minLike": 10,
         "channelId": 892765453326364734
+    },
+     {
+        "id": "Quest対応アバター",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3Dキャラクター"           
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [            
+        ],
+        "productNames": [            
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 894384877393285121
+    },
+    {
+        "id": "Quest衣装小道具",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）",
+            "ゲーム関連商品"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [            
+        ],
+        "productNames": [            
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 894385403598110730
     }
-    ]
-  }
+  ]
+}
