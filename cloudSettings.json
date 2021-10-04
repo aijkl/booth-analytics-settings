@@ -1264,7 +1264,8 @@
         ],
         "excludeKeywords": [],
         "titleKeywords": [],
-        "keywords": [            
+        "keywords": [ 
+            "Quest"
         ],
         "productNames": [            
         ],
@@ -1283,13 +1284,14 @@
         ],
         "excludeKeywords": [],
         "titleKeywords": [],
-        "keywords": [            
+        "keywords": [
+            "Quest"
         ],
         "productNames": [            
         ],
         "minPrice": 0,
         "minLike": 10,
-        "channelId": 894385403598110730
+        "channelId": 894410125861863434
     }
   ]
 }
