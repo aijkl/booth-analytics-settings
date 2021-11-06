@@ -1355,6 +1355,87 @@
         "minPrice": 0,
         "minLike": 10,
         "channelId": 904307072324222976
+    },
+    {
+        "id": "髪型",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）",
+            "ゲーム関連商品"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "髪型",
+            "ヘア"
+        ],
+        "productNames": [            
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 906344399833813062
+    },
+    {
+        "id": "アクセサリー",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）",
+            "ゲーム関連商品"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "アクセサリー",
+            "accessory"
+        ],
+        "productNames": [            
+        ],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 906345001158574140
+    },
+     {
+        "id": "まりえる",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）",
+            "ゲーム関連商品"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "3390339"
+        ],
+        "productNames": [
+            "まりえる",
+            "Marial"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 906346330736193559
+    },
+    {
+        "id": "新着アバター(良いね数)",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [
+            "3Dキャラクター"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [            
+        ],
+        "productNames": [
+        ],
+        "minPrice": 0,
+        "minLike": 500,
+        "channelId": 906346810413568051
     }
   ]
 }
