@@ -1420,7 +1420,29 @@
         "minLike": 10,
         "channelId": 906346330736193559
     },
-    {
+         {
+        "id": "竜胆",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）",
+            "ゲーム関連商品"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [
+            "3443188"
+        ],
+        "productNames": [
+            "竜胆",
+            "Rindo"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 911698396421709834
+    },
+        {
         "id": "新着アバター(良いね数2)",
         "sql": "",
         "useAvatarRelevanceEvaluation": false,
