@@ -1482,4 +1482,27 @@
         "channelId": 912893371964604456
     }
   ]
+},
+    {
+        "id": "sora",
+        "sql": "",
+        "useAvatarRelevanceEvaluation": true,
+        "categories": [
+            "3D衣装・装飾品",
+            "3Dモデル（その他）",
+            "ゲーム関連商品"
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [            
+            "3453992"
+        ],
+        "productNames": [
+            "Sora"
+        ],
+        "minPrice": 0,
+        "minLike": 10,
+        "channelId": 913154353249026068
+    }
+  ]
 }
