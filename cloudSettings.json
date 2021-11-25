@@ -1420,7 +1420,7 @@
         "minLike": 10,
         "channelId": 906346330736193559
     },
-         {
+    {
         "id": "竜胆",
         "sql": "",
         "useAvatarRelevanceEvaluation": true,
@@ -1483,7 +1483,7 @@
     }
   ]
 },
-    {
+{
         "id": "sora",
         "sql": "",
         "useAvatarRelevanceEvaluation": true,
