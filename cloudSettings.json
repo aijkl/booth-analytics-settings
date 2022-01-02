@@ -1540,6 +1540,20 @@
         "minPrice": 0,
         "minLike": 10,
         "channelId": 921060078860271617
+    },
+    {
+        "id": "sale-remind",
+        "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime(CURRENT_TIMESTAMP) AND (products.end_datetime IS NULL OR products.end_datetime >= datetime(CURRENT_TIMESTAMP))",
+        "useAvatarRelevanceEvaluation": false,
+        "categories": [            
+        ],
+        "excludeKeywords": [],
+        "titleKeywords": [],
+        "keywords": [],
+        "productNames": [],
+        "minPrice": 0,
+        "minLike": 0,
+        "channelId": 927053922865152010
     }
   ]
 }
