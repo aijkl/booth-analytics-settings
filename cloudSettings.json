@@ -3,6 +3,7 @@
     "fetchIntervalMilliSeconds": 3000,
     "updateIntervalMilliSeconds": 1800000,
     "modifyIntervalMilliSeconds": 300,
+    "remindIntervalMilliSeconds": "7200000",
     "guildId": 858188499270369322,
     "exceptionChannelId": 863343940249714709,
     "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
