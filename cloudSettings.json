@@ -25,6 +25,20 @@
   ],
   "notificationRules": [
     {
+      "id": "blocklist",
+      "sql": "SELECT * FROM products WHERE products.shop_id IN('mamamad')",
+      "useAvatarRelevanceEvaluation": false,
+      "useBlockList": false,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 927412029483012127
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -1599,6 +1613,6 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 927053922865152010
-    }
+    }    
   ]
 }
