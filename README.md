@@ -20,3 +20,5 @@ Booth通知サーバーの設定ファイル用リポジトリです。 <br>
 定期的に変更が取り込まれているのでプルリクが承認されてから数分で適応されます。<br>
 ![portalmaker-3](https://user-images.githubusercontent.com/51302983/129369641-0c17b441-72bd-4da6-92a8-b34b1e405265.png)
 
+<iframe src="https://discord.com/widget?id=858188499270369322&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
