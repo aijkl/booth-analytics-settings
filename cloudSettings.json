@@ -630,7 +630,8 @@
         "3016885"
       ],
       "productNames": [
-        "透羽"
+        "透羽",
+        "Towa"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -1283,7 +1284,8 @@
         "2198694"
       ],
       "productNames": [
-        "ユキ"
+        "ユキ",
+        "Yuki"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -1366,7 +1368,8 @@
         "3234473"
       ],
       "productNames": [
-        "アッシュ"
+        "アッシュ",
+        "Ash"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -1388,7 +1391,9 @@
         "3329958"
       ],
       "productNames": [
-        "くろなつ"
+        "くろなつ",
+        "Kuronatsu",
+        "Kuronatu"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -1431,7 +1436,10 @@
       "titleKeywords": [],
       "keywords": [
         "髪型",
-        "ヘア"
+        "ヘア",
+        "Hair",
+        "hairstyle",
+        "hairpreset"       
       ],
       "productNames": [],
       "minPrice": 0,
