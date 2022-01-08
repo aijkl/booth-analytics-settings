@@ -20,7 +20,7 @@
   "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
   "blockRules": [
     {
-      "shopId": "mamamad"
+      "shopId": "mamamad",
       "shopId": "mamamadv3"
     }
   ],
