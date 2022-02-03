@@ -1827,6 +1827,31 @@
             "channelId": 928034607214002187
         },
         {
+            "id": "SvartLilja",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3604487"
+            ],
+            "productNames": [
+                "SvartLilja",
+                "スヴァルトリリヤ"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 938910455810895902
+        },
+        {
             "id": "sale-remind",
             "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime(CURRENT_TIMESTAMP) AND (products.end_datetime IS NULL OR products.end_datetime >= datetime(CURRENT_TIMESTAMP))",
             "useAvatarRelevanceEvaluation": false,
