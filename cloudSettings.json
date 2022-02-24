@@ -1902,7 +1902,9 @@
                 "素材（その他）",
                 "アクセサリー（その他）"
             ],
-            "excludeKeywords": [],
+            "excludeKeywords": [
+                "うさぎ"
+            ],
             "titleKeywords": [],
             "keywords": [
                 "3441511"
