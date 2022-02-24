@@ -1889,6 +1889,31 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 946241503527845900
+        },
+        {
+            "id": "usa-aristore",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3441511"
+            ],
+            "productNames": [
+                "usa",
+                "うさ"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 946377476488171530
         }
     ]
 }
