@@ -1903,7 +1903,10 @@
                 "アクセサリー（その他）"
             ],
             "excludeKeywords": [
-                "うさぎ"
+                "うさぎ",
+                "usagi",
+                "うささき",
+                "usasaki"
             ],
             "titleKeywords": [],
             "keywords": [
@@ -1941,6 +1944,31 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 946399470462066698
+        },
+        {
+            "id": "anon",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3564947"
+            ],
+            "productNames": [
+                "anon",
+                "あのん"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 946716877621706782
         }
     ]
 }
