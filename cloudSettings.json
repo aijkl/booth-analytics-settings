@@ -1972,6 +1972,34 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 946716877621706782
+        },
+        {
+            "id": "KissMa",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "2754160",
+                "3079230",
+                "3686329"
+            ],
+            "productNames": [
+                "KissMa",
+                "UltimateKissMa",
+                "UltimateKissMa Quest"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 947157054609575966
         }
     ]
 }
