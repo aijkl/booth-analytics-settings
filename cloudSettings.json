@@ -1856,7 +1856,7 @@
         },
         {
             "id": "sale-remind",
-            "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime(CURRENT_TIMESTAMP) AND (products.end_datetime IS NULL OR products.end_datetime >= datetime(CURRENT_TIMESTAMP))",
+            "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
             "useAvatarRelevanceEvaluation": false,
             "useBlockList": true,
             "categories": [],
