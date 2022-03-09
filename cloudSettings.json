@@ -2064,13 +2064,37 @@
             "keywords": [
                 "Physbones",
                 "Phys",
-                "dynamics",
-                "Contact"
+                "dynamics"
             ],
             "productNames": [],
             "minPrice": 0,
             "minLike": 0,
             "channelId": 950927649813954600
+        },
+        {
+            "id": "Lucife_3674297",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3674297"
+            ],
+            "productNames": [
+                "ルシフェ",
+                "Lucife"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 951072674539524178
         }
     ]
 }
