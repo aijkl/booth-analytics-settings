@@ -20,19 +20,10 @@
     "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
     "blockRules": [
         {
-            "shopId": "mamamad"
-        },
-        {
-            "shopId": "mamamadv3"
-        },
-        {
-            "shopId": "kite666"
-        },
-        {
-            "shopId": "iamtherealkite"
-        },
-        {
             "shopId": "kittycatalog"
+        },
+        {
+            "shopId": "saisai"
         }
     ],
     "notificationRules": [
