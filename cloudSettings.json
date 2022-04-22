@@ -2174,6 +2174,57 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 959565977538932776
+        },
+        {
+            "id": "elfee",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3803231"
+            ],
+            "productNames": [
+                "エルフィ",
+                "Elfee"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 965815360186097704
+        },
+        {
+            "id": "elfee",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3472207"
+            ],
+            "productNames": [
+                "トラスとウェッジ",
+                "Tolass and Wedge",
+                "Tolass"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 966775385956175922
         }
     ]
 }
