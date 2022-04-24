@@ -2064,12 +2064,19 @@
                 "アクセサリー（その他）"
             ],
             "excludeKeywords": [],
-            "titleKeywords": [],
+            "titleKeywords": [
+                "Physbones",
+                "PhysBones",
+                "Phys",
+                "dynamics",
+                "dynamic"
+            ],
             "keywords": [
                 "Physbones",
                 "PhysBones",
                 "Phys",
-                "dynamics"
+                "dynamics",
+                "dynamic"
             ],
             "productNames": [],
             "minPrice": 0,
