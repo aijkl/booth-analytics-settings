@@ -1366,7 +1366,10 @@
                 "素材（その他）",
                 "アクセサリー（その他）"
             ],
-            "excludeKeywords": [],
+            "excludeKeywords": [
+                "コユキ",
+                "Koyuki"
+            ],
             "titleKeywords": [],
             "keywords": [
                 "2198694"
