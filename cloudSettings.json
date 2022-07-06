@@ -2443,6 +2443,31 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 991910503116984391
+        },
+        {
+            "id": "undone_kittens_3067603",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "3067603"
+            ],
+            "productNames": [
+                "undone",
+                "kittens"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 994300869937991720
         }
     ]
 }
