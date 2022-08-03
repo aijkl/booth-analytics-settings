@@ -2468,6 +2468,31 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 994300869937991720
+        },
+         {
+            "id": "フルーリア4005540",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "4005540"
+            ],
+            "productNames": [
+                "フルーリア",
+                "Fluria"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1004395587963195402
         }
     ]
 }
