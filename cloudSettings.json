@@ -2518,6 +2518,31 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1004397854690922536
+        },
+        {
+            "id": "セレスティア-selestia",
+            "sql": "",
+            "useAvatarRelevanceEvaluation": true,
+            "useBlockList": true,
+            "categories": [
+                "3D衣装・装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [],
+            "titleKeywords": [],
+            "keywords": [
+                "4035411"
+            ],
+            "productNames": [
+                "セレスティア",
+                "Selestia"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1004398664460030003
         }
     ]
 }
