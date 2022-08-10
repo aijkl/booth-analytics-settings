@@ -32,7 +32,7 @@
       "sql": "SELECT * FROM products WHERE products.shop_id IN('mamamad')",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": false,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -47,7 +47,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -75,7 +75,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -103,7 +103,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -131,7 +131,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -159,7 +159,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -187,7 +187,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -215,7 +215,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -243,7 +243,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -272,7 +272,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -299,7 +299,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -327,7 +327,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -355,7 +355,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -382,7 +382,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -410,7 +410,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -438,7 +438,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -466,7 +466,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -494,7 +494,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -521,7 +521,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -549,7 +549,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -578,7 +578,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -606,7 +606,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -634,7 +634,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -661,7 +661,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -689,7 +689,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -717,7 +717,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [
         "うどん猫",
@@ -740,7 +740,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "ソフトウェア",
         "ゲーム関連商品",
@@ -762,7 +762,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -777,7 +777,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -792,7 +792,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -820,7 +820,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -848,7 +848,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3Dキャラクター"
       ],
@@ -865,7 +865,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3Dキャラクター"
       ],
@@ -882,7 +882,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -910,7 +910,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -937,7 +937,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [
         "vroid"
@@ -958,7 +958,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -986,7 +986,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1014,7 +1014,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1041,7 +1041,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1084,7 +1084,7 @@
       "sql": "SELECT * FROM products WHERE products.is_adult == true",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -1099,7 +1099,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D小道具"
       ],
@@ -1116,7 +1116,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D環境・ワールド"
       ],
@@ -1133,7 +1133,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "VRoid"
       ],
@@ -1150,7 +1150,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1176,7 +1176,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1205,7 +1205,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1231,7 +1231,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1258,7 +1258,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1285,7 +1285,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1312,7 +1312,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1338,7 +1338,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1363,7 +1363,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1388,7 +1388,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1414,7 +1414,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1443,7 +1443,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1469,7 +1469,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3Dキャラクター"
       ],
@@ -1488,7 +1488,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1511,7 +1511,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1537,7 +1537,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1564,7 +1564,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1590,7 +1590,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1617,7 +1617,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1641,7 +1641,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1667,7 +1667,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1693,7 +1693,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3Dキャラクター"
       ],
@@ -1710,7 +1710,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1736,7 +1736,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1761,7 +1761,7 @@
       "sql": "SELECT * FROM products WHERE products.is_limited_time AND (products.category = '3Dキャラクター' OR products.category = '3Dモデル（その他）')",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -1776,7 +1776,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1802,7 +1802,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1828,7 +1828,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1854,7 +1854,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1880,7 +1880,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1906,7 +1906,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1932,7 +1932,7 @@
       "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -1947,7 +1947,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -1973,7 +1973,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2015,7 +2015,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2041,7 +2041,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2067,7 +2067,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2097,7 +2097,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2123,7 +2123,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "ソフトウェア",
         "ゲーム関連商品",
@@ -2144,7 +2144,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2177,7 +2177,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2203,7 +2203,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2229,7 +2229,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2255,7 +2255,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2281,7 +2281,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2307,7 +2307,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2334,7 +2334,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2361,7 +2361,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2386,7 +2386,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2412,7 +2412,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2441,7 +2441,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2468,7 +2468,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2496,7 +2496,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2522,7 +2522,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2548,7 +2548,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2574,7 +2574,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2600,7 +2600,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
@@ -2626,7 +2626,7 @@
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useBlockList": true,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
         "3Dモデル（その他）",
