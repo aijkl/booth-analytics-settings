@@ -2075,8 +2075,7 @@
       ],
       "productNames": [
         "KissMa",
-        "UltimateKissMa",
-        "UltimateKissMa Quest"
+        "UltimateKissMa"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -2355,9 +2354,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [
-        "poiyomi"
-      ],
+      "titleKeywords": [],
       "keywords": [
         "poiyomi"
       ],
@@ -2381,7 +2378,6 @@
       ],
       "excludeKeywords": [],
       "titleKeywords": [
-        "liltoon"
       ],
       "keywords": [
         "liltoon",
@@ -2406,11 +2402,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [
-        "uts",
-        "uts2",
-        "uts3"
-      ],
+      "titleKeywords": [],
       "keywords": [
         "uts",
         "uts2",
@@ -2435,10 +2427,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [
-        "unlit_wf",
-        "unlitwf"
-      ],
+      "titleKeywords": [],
       "keywords": [
         "unlit_wf",
         "unlitwf"
@@ -2462,14 +2451,12 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [
+      "titleKeywords": [],
+      "keywords": [
+        "1894974",
         "Silent's Cel Shading Shader",
         "SCSS",
-        "セルシェーディング・シェーダー",
-        "1894974"
-      ],
-      "keywords": [
-        "1894974"
+        "セルシェーディング・シェーダー"       
       ],
       "productNames": [],
       "minPrice": 0,
