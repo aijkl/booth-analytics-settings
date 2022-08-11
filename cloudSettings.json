@@ -10,8 +10,8 @@
   "modifyEndPage": 2,
   "notifyStartPage": 1,
   "notifyEndPage": 1,
-  "footerText": "From BoothDB",
-  "gameStatusText": "BoothDB",
+  "footerText": "https://booth.pm/",
+  "gameStatusText": "愛をこめてC#で作られました",
   "notifiedDataKeepDays": 7,
   "relevanceEvaluationKeywords": [
     "用",
