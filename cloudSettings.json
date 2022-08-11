@@ -939,9 +939,7 @@
       "useBlockList": true,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [
-        "vroid"
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [
         "LimitedTime",
