@@ -2647,6 +2647,32 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1007484281284726914
+    },
+    {
+      "id": "華夜-Kaya",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useBlockList": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "3480756"
+      ],
+      "productNames": [
+        "華夜",
+        "Kaya"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1009643814392188958
     }
   ]
 }
