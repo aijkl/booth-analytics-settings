@@ -1971,7 +1971,7 @@
     {
       "id": "usa-aristore",
       "sql": "",
-      "useAvatarRelevanceEvaluation": true,
+      "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
       "useModifyService": true,
       "categories": [
@@ -1981,24 +1981,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      // TODO excludeKeywordsを細分化するべき
-      // 1.ここに含まれていたら通知から除外する強い設定
-      // 2.ここに含まれているキーワードは無視する
       "excludeKeywords": [
-        "うさぎ", 
-        "usagi",
-        "うささき",
-        "うさ耳",
-        "うさみみ"
       ],
       "titleKeywords": [],
       "keywords": [
         "3441511"
       ],
-      "productNames": [
-        "usa",
-        "うさ"
-      ],
+      "productNames": [],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 946377476488171530
