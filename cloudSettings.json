@@ -603,35 +603,7 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 863276042759045141
-    },
-    {
-      "id": "ショコラメイド",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [
-        "vroid"
-      ],
-      "titleKeywords": [],
-      "keywords": [
-        "2158487"
-      ],
-      "productNames": [
-        "ショコラメイド",
-        "ShokoraMaid"
-      ],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 863276078419804230
-    },
+    },  
     {
       "id": "イヨ",
       "sql": "",
