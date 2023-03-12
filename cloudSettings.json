@@ -974,7 +974,9 @@
       "useBlockList": true,
       "useModifyService": false,
       "categories": [],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "Vroid"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -989,7 +991,9 @@
       "useBlockList": true,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "Vroid"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -1666,7 +1670,9 @@
       "useBlockList": true,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "Vroid"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
