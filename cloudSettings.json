@@ -32,6 +32,9 @@
     },
     {
       "shopId": "ryoteikoyo"
+    },
+    {
+      "shopId": "iktk" // 悪意はないけどノイズ
     }
   ],
   "channelRules": [
