@@ -2721,7 +2721,7 @@
     },
     {
       "id": "free",
-      "sql": "SELECT * FROM products WHERE products.product_id IN( SELECT products.product_id FROM products INNER JOIN product_variations ON  products.product_id == product_variations.product_id WHERE products.like >= 100 AND ( product_variations.name REGEXP("(.+おやつ.+)|(.+支援.+)") OR  product_variations.price == 0 ) GROUP BY products.product_id HAVING COUNT(*) = ( SELECT COUNT(*) FROM product_variations WHERE product_id = products.product_id ) )",
+      "sql": "SELECT * FROM products WHERE products.product_id IN( SELECT products.product_id FROM products INNER JOIN product_variations ON products.product_id == product_variations.product_id WHERE products.like >= 150 AND ( product_variations.name REGEXP(\"(.+おやつ.+)|(.+支援.+)\") OR  product_variations.price == 0 ) GROUP BY products.product_id HAVING COUNT(*) = ( SELECT COUNT(*) FROM product_variations WHERE product_id = products.product_id ) )",
       "useAvatarRelevanceEvaluation": false,
       "useBlockList": true,
       "useModifyService": true,      
