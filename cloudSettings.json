@@ -710,6 +710,21 @@
       "channelId": 863700080450863104
     },
     {
+      "id": "like1000",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useBlockList": true,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 1000,
+      "channelId": 1084853259056979979
+    },
+    {
       "id": "ティコ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
