@@ -35,7 +35,7 @@
       "shopId": "ryoteikoyo"
     },
     {
-      "shopId": "iktk" // 悪意はないけどノイズ
+      "shopId": "iktk"
     }
   ],
   "channelRules": [
@@ -43,7 +43,6 @@
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -69,7 +68,6 @@
       "id": "幽狐",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -95,7 +93,6 @@
       "id": "狐雪",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -121,7 +118,6 @@
       "id": "ミーシェ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -147,7 +143,6 @@
       "id": "京狐",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -173,7 +168,6 @@
       "id": "スノウエルフ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -199,7 +193,6 @@
       "id": "メリノ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -225,7 +218,6 @@
       "id": "リーメリーバ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -252,7 +244,6 @@
       "id": "Noy",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -277,7 +268,6 @@
       "id": "薄荷",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -303,7 +293,6 @@
       "id": "CyberCat",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -329,7 +318,6 @@
       "id": "Lua",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -354,7 +342,6 @@
       "id": "ウルフェリア",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -380,7 +367,6 @@
       "id": "みみの",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -406,7 +392,6 @@
       "id": "ここあ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -432,7 +417,6 @@
       "id": "ラスク",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -458,7 +442,6 @@
       "id": "ファジー",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -483,7 +466,6 @@
       "id": "ルシナ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -509,7 +491,6 @@
       "id": "キッシュ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -536,7 +517,6 @@
       "id": "リアアリス",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -562,7 +542,6 @@
       "id": "イヨ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -587,7 +566,6 @@
       "id": "しいか",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -613,7 +591,6 @@
       "id": "透羽",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -639,7 +616,6 @@
       "id": "udon",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [
@@ -662,7 +638,6 @@
       "id": "ツール",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "ソフトウェア",
@@ -684,7 +659,6 @@
       "id": "like50",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
@@ -699,7 +673,6 @@
       "id": "like100",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
@@ -714,7 +687,6 @@
       "id": "like1000",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
@@ -729,7 +701,6 @@
       "id": "ティコ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -755,7 +726,6 @@
       "id": "ルエナ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -781,7 +751,6 @@
       "id": "新着アバター(良いね数)",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3Dキャラクター"
@@ -798,7 +767,6 @@
       "id": "新着アバター(値段)",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3Dキャラクター"
@@ -815,7 +783,6 @@
       "id": "Hiina",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -841,7 +808,6 @@
       "id": "レイニィ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -866,7 +832,6 @@
       "id": "LimitedTime",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
@@ -887,7 +852,6 @@
       "id": "宙猫",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -913,7 +877,6 @@
       "id": "杏里",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -939,7 +902,6 @@
       "id": "メープル",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -964,7 +926,6 @@
       "id": "シアノス",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -990,7 +951,6 @@
       "id": "新着順",
       "sql": "SELECT * FROM products",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": false,
       "categories": [],
       "excludeKeywords": [
@@ -1007,7 +967,6 @@
       "id": "アダルト",
       "sql": "SELECT * FROM products WHERE products.is_adult == true",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [
@@ -1024,7 +983,6 @@
       "id": "Props",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D小道具"
@@ -1041,7 +999,6 @@
       "id": "World",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D環境・ワールド"
@@ -1058,7 +1015,6 @@
       "id": "Vroid",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "VRoid"
@@ -1075,7 +1031,6 @@
       "id": "イメリス",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1101,7 +1056,6 @@
       "id": "のらきゃっと",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1130,7 +1084,6 @@
       "id": "セフィラ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1156,7 +1109,6 @@
       "id": "フィリナ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1183,7 +1135,6 @@
       "id": "狐薄",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1210,7 +1161,6 @@
       "id": "猫山苗",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1237,7 +1187,6 @@
       "id": "リンツ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1263,7 +1212,6 @@
       "id": "ユウ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1288,7 +1236,6 @@
       "id": "Grus",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1313,7 +1260,6 @@
       "id": "Iris",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1339,7 +1285,6 @@
       "id": "ユキ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1368,7 +1313,6 @@
       "id": "ニャスカ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1394,7 +1338,6 @@
       "id": "Quest対応アバター",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3Dキャラクター"
@@ -1413,7 +1356,6 @@
       "id": "Quest衣装小道具",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1436,7 +1378,6 @@
       "id": "アッシュ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1462,7 +1403,6 @@
       "id": "くろなつ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1489,7 +1429,6 @@
       "id": "舞夜",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1515,7 +1454,6 @@
       "id": "髪型",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1542,7 +1480,6 @@
       "id": "アクセサリー",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1566,7 +1503,6 @@
       "id": "まりえる",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1592,7 +1528,6 @@
       "id": "竜胆",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1618,7 +1553,6 @@
       "id": "新着アバター(良いね数2)",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3Dキャラクター"
@@ -1635,7 +1569,6 @@
       "id": "リフレイン",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1661,7 +1594,6 @@
       "id": "sora",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1686,7 +1618,6 @@
       "id": "Limited Sale",
       "sql": "SELECT * FROM products WHERE products.is_limited_time AND (products.category = '3Dキャラクター' OR products.category = '3Dモデル（その他）')",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [
@@ -1703,7 +1634,6 @@
       "id": "alicia",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1729,7 +1659,6 @@
       "id": "karin",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1755,7 +1684,6 @@
       "id": "milk",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1781,7 +1709,6 @@
       "id": "ramune",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1807,7 +1734,6 @@
       "id": "mint",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1833,7 +1759,6 @@
       "id": "SvartLilja",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1859,7 +1784,6 @@
       "id": "sale-remind",
       "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
@@ -1874,7 +1798,6 @@
       "id": "Leefa",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1900,7 +1823,6 @@
       "id": "usa-aristore",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1924,7 +1846,6 @@
       "id": "usasaki",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1950,7 +1871,6 @@
       "id": "anon",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -1976,7 +1896,6 @@
       "id": "KissMa",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2005,7 +1924,6 @@
       "id": "Kikyo",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2031,7 +1949,6 @@
       "id": "OSC",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "ソフトウェア",
@@ -2052,7 +1969,6 @@
       "id": "Lucife_3674297",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2078,7 +1994,6 @@
       "id": "Mona_2841015",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2104,7 +2019,6 @@
       "id": "luruleah_3708060",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2130,7 +2044,6 @@
       "id": "tolass_and_wedge",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2157,7 +2070,6 @@
       "id": "amanatsu",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2184,7 +2096,6 @@
       "id": "poiyomi",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2207,7 +2118,6 @@
       "id": "liltoon",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2232,7 +2142,6 @@
       "id": "unity-chan_toon_shader",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2257,7 +2166,6 @@
       "id": "unlit_wf",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2281,7 +2189,6 @@
       "id": "silent_cel_shader",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2307,7 +2214,6 @@
       "id": "mashu_sisters",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2333,7 +2239,6 @@
       "id": "ciel_3368697",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2359,7 +2264,6 @@
       "id": "undone_kittens_3067603",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2385,7 +2289,6 @@
       "id": "フルーリア4005540",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2411,7 +2314,6 @@
       "id": "ミュリシア3302156",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2437,7 +2339,6 @@
       "id": "セレスティア-selestia",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2463,7 +2364,6 @@
       "id": "うるる-ururu",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2489,7 +2389,6 @@
       "id": "華夜-Kaya",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2517,7 +2416,6 @@
       "id": "ルーナリット-Lunalitt",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2543,7 +2441,6 @@
       "id": "ぞめ-Zome",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2569,7 +2466,6 @@
       "id": "サフィーSapphy",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2595,7 +2491,6 @@
       "id": "エポナ-Epona",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2621,7 +2516,6 @@
       "id": "TubeRose",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2646,7 +2540,6 @@
       "id": "ソラハ-Soraha",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2672,7 +2565,6 @@
       "id": "御咲ライネ-Raine",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2698,7 +2590,6 @@
       "id": "ヨル-Yoll",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2724,7 +2615,6 @@
       "id": "free",
       "sql": "SELECT * FROM products WHERE products.product_id IN( SELECT products.product_id FROM products INNER JOIN product_variations ON products.product_id == product_variations.product_id WHERE products.like >= 100 AND ( product_variations.name REGEXP(\"(.+おやつ.+)|(.+支援.+)\") OR  product_variations.price == 0 ) GROUP BY products.product_id HAVING COUNT(*) = ( SELECT COUNT(*) FROM product_variations WHERE product_id = products.product_id ) )",
       "useAvatarRelevanceEvaluation": false,
-      "useBlockList": true,
       "useModifyService": true,      
       "excludeKeywords": [],
       "titleKeywords": [],
@@ -2738,7 +2628,6 @@
       "id": "リア",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
@@ -2763,7 +2652,6 @@
       "id": "ホノカ-Honoka",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
-      "useBlockList": true,
       "useModifyService": true,
       "categories": [
         "3D衣装・装飾品",
