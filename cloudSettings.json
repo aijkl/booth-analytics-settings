@@ -2725,6 +2725,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1090996860942032906
+    },
+    {
+      "id": "イェーナ_Yena",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4398963"
+      ],
+      "productNames": [
+        "イェーナ",
+        "Yena"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090996922094977165
     }
   ]
 }
