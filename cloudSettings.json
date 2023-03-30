@@ -2672,6 +2672,134 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1085516558199169034
+    },
+    {
+      "id": "まるぼでぃ_MARUBODY",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4376366",
+        "4398963",
+        "4358123",
+        "4390073"
+      ],
+      "productNames": [
+        "MARUBODY",
+        "まるぼでぃ"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090995584300756992
+    },
+    {
+      "id": "ネミア_Nenmir",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4376366"
+      ],
+      "productNames": [
+        "ネミア",
+        "Nenmir"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090996860942032906
+    },
+    {
+      "id": "イェーナ_Yena",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4398963"
+      ],
+      "productNames": [
+        "イェーナ",
+        "Yena"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090996922094977165
+    },
+    {
+      "id": "ルキフェル_Lucifer",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4358123"
+      ],
+      "productNames": [
+        "ルキフェル",
+        "Lucifer"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090996980454539376
+    },
+    {
+      "id": "リセ_Lise",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4390073"
+      ],
+      "productNames": [
+        "リセ",
+        "Lise"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090997022217212108
     }
   ]
 }
