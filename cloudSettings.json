@@ -1977,7 +1977,9 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "Lucifer"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3674297"
