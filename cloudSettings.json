@@ -2881,6 +2881,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1092914384331874397
+    },
+    {
+      "id": "萌_moe",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4667400"
+      ],
+      "productNames": [
+        "萌",
+        "moe"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1095806420093513728
     }
   ]
 }
