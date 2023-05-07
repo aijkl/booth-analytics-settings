@@ -1,0 +1,23 @@
+name: Validate json
+on: [push,workflow_dispatch]
+jobs:
+    run:
+      runs-on: ubuntu-20.04
+      steps:
+         - uses: actions/checkout@v2
+         - name: Detect mixed line endings
+           run: |
+              MIXED_FILES=$(git ls-files --eol -- . | grep -E 'w/mixed' | cut -c3-)
+              if [ -n "$MIXED_FILES" ]; then
+                echo "Found files with mixed line endings:"
+                echo "$MIXED_FILES"
+                exit 1
+              else
+                echo "Line endings are not mixed"
+              fi
+              - uses: actions/checkout@v1
+         - name: Validate JSON
+           uses: docker://orrosenblatt/validate-json-action:latest
+           env:
+            INPUT_SCHEMA: schema.json
+            INPUT_JSONS: cloudSettings.json
