@@ -1,159 +1,156 @@
 {
   "definitions": {
-    "BlockRule": {
-      "type": [
-        "type"
-      ],
-      "properties": {
-        "shopId": {
-          "type": "string"
-        }
+      "BlockRule": {
+          "type": [
+              "object"
+          ],
+          "properties": {
+              "shopId": {
+                  "type": "string"
+              }
+          },
+          "required": ["shopId"]
+      },
+      "ChannelRule": {
+          "type": [
+              "object"
+          ],
+          "properties": {
+              "id": {
+                  "type": "string"
+              },
+              "sql": {
+                  "type": "string"
+              },
+              "useAvatarRelevanceEvaluation": {
+                  "type": "boolean"
+              },
+              "categories": {
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
+              },
+              "excludeKeywords": {
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
+              },
+              "titleKeywords": {
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
+              },
+              "keywords": {
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
+              },
+              "productNames": {
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
+              },
+              "minPrice": {
+                  "type": "integer"
+              },
+              "minLike": {
+                  "type": "integer"
+              },
+              "channelId": {
+                  "type": "integer"
+              },
+              "useModifyService": {
+                  "type": "boolean"
+              }
+          },
+          "required": ["id", "sql", "useAvatarRelevanceEvaluation", "categories", "excludeKeywords", "titleKeywords", "keywords", "productNames", "minPrice", "minLike", "channelId", "useModifyService"]
       }
-    },
-    "ChannelRule": {
-      "type": [
-        "type"
-      ],
-      "properties": {
-        "id": {
-          "type": "string"
-        },
-        "sql": {
-          "type": "string"
-        },
-        "useAvatarRelevanceEvaluation": {
-          "type": "boolean"
-        },
-        "categories": {
-          "type": "array",
-          "items": {
-            "type": [
-              "string",
-              "null"
-            ]
-          }
-        },
-        "excludeKeywords": {
-          "type": "array",
-          "items": {
-            "type": [
-              "string",
-              "null"
-            ]
-          }
-        },
-        "titleKeywords": {
-          "type": "array",
-          "items": {
-            "type": [
-              "string",
-              "null"
-            ]
-          }
-        },
-        "keywords": {
-          "type": "array",
-          "items": {
-            "type": [
-              "string",
-              "null"
-            ]
-          }
-        },
-        "productNames": {
-          "type": "array",
-          "items": {
-            "type": [
-              "string",
-              "null"
-            ]
-          }
-        },
-        "minPrice": {
-          "type": "integer"
-        },
-        "minLike": {
-          "type": "integer"
-        },
-        "channelId": {
-          "type": "integer"
-        },
-        "useModifyService": {
-          "type": "boolean"
-        }
-      }
-    }
   },
   "type": "object",
   "properties": {
-    "keyword": {
-      "type": "string"
-    },
-    "fetchIntervalMilliSeconds": {
-      "type": "integer"
-    },
-    "updateIntervalMilliSeconds": {
-      "type": "integer"
-    },
-    "modifyIntervalMilliSeconds": {
-      "type": "integer"
-    },
-    "saleCheckIntervalMilliSeconds": {
-      "type": "integer"
-    },
-    "guildId": {
-      "type": "integer"
-    },
-    "exceptionChannelId": {
-      "type": "integer"
-    },
-    "reminderModifyDays": {
-      "type": "integer"
-    },
-    "modifyStartPage": {
-      "type": "integer"
-    },
-    "modifyEndPage": {
-      "type": "integer"
-    },
-    "notifyStartPage": {
-      "type": "integer"
-    },
-    "notifyEndPage": {
-      "type": "integer"
-    },
-    "footerText": {
-      "type": "string"
-    },
-    "gameStatusText": {
-      "type": "string"
-    },
-    "notifiedDataKeepDays": {
-      "type": "integer"
-    },
-    "relevanceEvaluationKeywords": {
-      "type": "array",
-      "items": {
-        "type": [
-          "string",
-          "null"
-        ]
+      "keyword": {
+          "type": "string"
+      },
+      "fetchIntervalMilliSeconds": {
+          "type": "integer"
+      },
+      "updateIntervalMilliSeconds": {
+          "type": "integer"
+      },
+      "modifyIntervalMilliSeconds": {
+          "type": "integer"
+      },
+      "saleCheckIntervalMilliSeconds": {
+          "type": "integer"
+      },
+      "guildId": {
+          "type": "integer"
+      },
+      "exceptionChannelId": {
+          "type": "integer"
+      },
+      "reminderModifyDays": {
+          "type": "integer"
+      },
+      "modifyStartPage": {
+          "type": "integer"
+      },
+      "modifyEndPage": {
+          "type": "integer"
+      },
+      "notifyStartPage": {
+          "type": "integer"
+      },
+      "notifyEndPage": {
+          "type": "integer"
+      },
+      "footerText": {
+          "type": "string"
+      },
+      "gameStatusText": {
+          "type": "string"
+      },
+      "notifiedDataKeepDays": {
+          "type": "integer"
+      },
+      "relevanceEvaluationKeywords": {
+          "type": "array",
+          "items": {
+              "type": [
+                  "string"
+              ]
+          }
+      },
+      "adultWarningImageUrl": {
+          "type": "string"
+      },
+      "blockRules": {
+          "type": "array",
+          "items": {
+              "$ref": "#/definitions/BlockRule"
+          }
+      },
+      "channelRules": {
+          "type": "array",
+          "items": {
+              "$ref": "#/definitions/ChannelRule"
+          }
       }
-    },
-    "adultWarningImageUrl": {
-      "type": "string"
-    },
-    "blockRules": {
-      "type": "array",
-      "items": {
-        "$ref": "#/definitions/BlockRule"
-      }
-    },
-    "channelRules": {
-      "type": "array",
-      "items": {
-        "$ref": "#/definitions/ChannelRule"
-      }
-    }
-  }
+  },
+  "required" : ["keyword", "fetchIntervalMilliSeconds", "updateIntervalMilliSeconds", "modifyIntervalMilliSeconds", "saleCheckIntervalMilliSeconds", "guildId", "exceptionChannelId", "reminderModifyDays", "modifyStartPage", "modifyEndPage", "notifyStartPage", "notifyEndPage", "footerText", "gameStatusText", "notifiedDataKeepDays", "relevanceEvaluationKeywords", "adultWarningImageUrl", "blockRules", "channelRules"]
 }
