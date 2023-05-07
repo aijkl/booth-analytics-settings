@@ -15,7 +15,6 @@ jobs:
               else
                 echo "Line endings are not mixed"
               fi
-              - uses: actions/checkout@v1
          - name: Validate JSON
            uses: docker://orrosenblatt/validate-json-action:latest
            env:
