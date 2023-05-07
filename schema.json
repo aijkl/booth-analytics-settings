@@ -28,8 +28,7 @@
                   "type": "array",
                   "items": {
                       "type": [
-                          "string",
-                          "null"
+                          "string"
                       ]
                   }
               },
@@ -37,8 +36,7 @@
                   "type": "array",
                   "items": {
                       "type": [
-                          "string",
-                          "null"
+                          "string"
                       ]
                   }
               },
@@ -46,8 +44,7 @@
                   "type": "array",
                   "items": {
                       "type": [
-                          "string",
-                          "null"
+                          "string"
                       ]
                   }
               },
@@ -55,8 +52,7 @@
                   "type": "array",
                   "items": {
                       "type": [
-                          "string",
-                          "null"
+                          "string"
                       ]
                   }
               },
@@ -64,8 +60,7 @@
                   "type": "array",
                   "items": {
                       "type": [
-                          "string",
-                          "null"
+                          "string"
                       ]
                   }
               },
@@ -135,8 +130,7 @@
           "type": "array",
           "items": {
               "type": [
-                  "string",
-                  "null"
+                  "string"
               ]
           }
       },
