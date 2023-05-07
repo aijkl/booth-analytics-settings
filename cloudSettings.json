@@ -17,7 +17,7 @@
   "relevanceEvaluationKeywords": [
     "専用"
   ],
-  "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
+  "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-settings/main/adult_warning.png",
   "blockRules": [
     {
       "shopId": "kittycatalog"
