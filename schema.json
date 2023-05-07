@@ -1,15 +1,15 @@
 {
   "definitions": {
-      "BlockRule": {      
+      "BlockRule": {
           "type": [
-              "object"            
+              "object"
           ],
           "properties": {
-              "shopId": {                
-                  "type": "string",
-                  "required": true
+              "shopId": {
+                  "type": "string"
               }
-          }
+          },
+          "required": ["shopId"]
       },
       "ChannelRule": {
           "type": [
@@ -17,20 +17,16 @@
           ],
           "properties": {
               "id": {
-                  "type": "string",
-                  "required": true                  
+                  "type": "string"
               },
               "sql": {
-                  "type": "string",
-                  "required": true
+                  "type": "string"
               },
               "useAvatarRelevanceEvaluation": {
-                  "type": "boolean",
-                  "required": true
+                  "type": "boolean"
               },
               "categories": {
                   "type": "array",
-                  "required": true,
                   "items": {
                       "type": [
                           "string"
@@ -39,7 +35,6 @@
               },
               "excludeKeywords": {
                   "type": "array",
-                  "required": true,
                   "items": {
                       "type": [
                           "string"
@@ -48,7 +43,6 @@
               },
               "titleKeywords": {
                   "type": "array",
-                  "required": true,
                   "items": {
                       "type": [
                           "string"
@@ -57,7 +51,6 @@
               },
               "keywords": {
                   "type": "array",
-                  "required": true,
                   "items": {
                       "type": [
                           "string"
@@ -66,7 +59,6 @@
               },
               "productNames": {
                   "type": "array",
-                  "required": true,
                   "items": {
                       "type": [
                           "string"
@@ -74,89 +66,70 @@
                   }
               },
               "minPrice": {
-                  "type": "integer",
-                  "required": true
+                  "type": "integer"
               },
               "minLike": {
-                  "type": "integer",
-                  "required": true
+                  "type": "integer"
               },
               "channelId": {
-                  "type": "integer",
-                  "required": true
+                  "type": "integer"
               },
               "useModifyService": {
-                  "type": "boolean",
-                  "required": true
+                  "type": "boolean"
               }
-          }
+          },
+          "required": ["id", "sql", "useAvatarRelevanceEvaluation", "categories", "excludeKeywords", "titleKeywords", "keywords", "productNames", "minPrice", "minLike", "channelId", "useModifyService"]
       }
   },
   "type": "object",
   "properties": {
       "keyword": {
-          "type": "string",
-          "required": true
+          "type": "string"
       },
       "fetchIntervalMilliSeconds": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "updateIntervalMilliSeconds": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "modifyIntervalMilliSeconds": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "saleCheckIntervalMilliSeconds": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "guildId": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "exceptionChannelId": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "reminderModifyDays": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "modifyStartPage": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "modifyEndPage": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "notifyStartPage": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "notifyEndPage": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "footerText": {
-          "type": "string",
-          "required": true
+          "type": "string"
       },
       "gameStatusText": {
-          "type": "string",
-          "required": true
+          "type": "string"
       },
       "notifiedDataKeepDays": {
-          "type": "integer",
-          "required": true
+          "type": "integer"
       },
       "relevanceEvaluationKeywords": {
           "type": "array",
-          "required": true,
           "items": {
               "type": [
                   "string"
@@ -164,22 +137,20 @@
           }
       },
       "adultWarningImageUrl": {
-          "type": "string",
-          "required": true
+          "type": "string"
       },
       "blockRules": {
-          "type": "array",        
-          "required": true,
+          "type": "array",
           "items": {
               "$ref": "#/definitions/BlockRule"
           }
       },
       "channelRules": {
-          "type": "array",          
-          "required": true,
+          "type": "array",
           "items": {
               "$ref": "#/definitions/ChannelRule"
           }
       }
-  }
+  },
+  "required" : ["keyword", "fetchIntervalMilliSeconds", "updateIntervalMilliSeconds", "modifyIntervalMilliSeconds", "saleCheckIntervalMilliSeconds", "guildId", "exceptionChannelId", "reminderModifyDays", "modifyStartPage", "modifyEndPage", "notifyStartPage", "notifyEndPage", "footerText", "gameStatusText", "notifiedDataKeepDays", "relevanceEvaluationKeywords", "adultWarningImageUrl", "blockRules", "channelRules"]
 }
