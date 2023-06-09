@@ -3082,6 +3082,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1116686420493484034
+    },
+    {
+      "id": "マキナ-Makina",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4751941"
+      ],
+      "productNames": [
+        "マキナ",
+        "Makina"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1116699118199386223
     }
   ]
 }
