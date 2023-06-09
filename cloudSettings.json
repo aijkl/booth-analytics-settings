@@ -3007,6 +3007,81 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1104326977890046002
+    },
+    {
+      "id": "鳴耶-Naruya",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "2328361"
+      ],
+      "productNames": [
+        "鳴耶",
+        "Naruya"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1104326977890046002
+    },
+    {
+      "id": "ソフィナ-Sophina",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4044305"
+      ],
+      "productNames": [
+        "ソフィナ",
+        "Sophina"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1116685724520034384
+    },
+    {
+      "id": "ラシューシャ-Lasyusha",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4825073"
+      ],
+      "productNames": [
+        "ラシューシャ",
+        "Lasyusha"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1116686420493484034
     }
   ]
 }
