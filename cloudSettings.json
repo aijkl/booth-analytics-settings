@@ -3107,6 +3107,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1116699118199386223
+    },
+    {
+      "id": "伊兎卯さん-Itousan",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4841951"
+      ],
+      "productNames": [
+        "伊兎卯",
+        "Itousan"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1119584916657676380
     }
   ]
 }
