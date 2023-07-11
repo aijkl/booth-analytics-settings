@@ -20,27 +20,15 @@
   "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-settings/main/adult_warning.png",
   "blockRules": [
     {
-      "shopId": "kittycatalog"
-    },
-    {
       "shopId": "saisai"
-    },
-    {
-      "shopId": "vrchatcrashers"
     },   
     {
       "shopId": "paletteproject"
     },
     {
-      "shopId": "ryoteikoyo"
-    },
-    {
       "shopId": "iktk"
     }
-,
-    {
-      "shopId": "akak111"
-    }  ],
+  ],
   "channelRules": [
     {
       "id": "lsbody",
