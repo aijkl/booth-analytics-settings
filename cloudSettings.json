@@ -37,7 +37,10 @@
     {
       "shopId": "iktk"
     }
-  ],
+,
+    {
+      "shopId": "akak111"
+    }  ],
   "channelRules": [
     {
       "id": "lsbody",
