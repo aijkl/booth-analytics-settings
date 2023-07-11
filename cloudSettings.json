@@ -3213,6 +3213,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1128050083477344319
+    } ,
+    {
+      "id": "ルーシュカ-Rushka",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "1264514"
+      ],
+      "productNames": [
+        "ルーシュカ",
+        "Rushka"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1128389463874228224
     } 
       ]
 }
