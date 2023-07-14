@@ -2215,7 +2215,10 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "ましゅめろ",
+        "Marshmero"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3878174"
@@ -3251,6 +3254,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1129387425874059264
+    }  ,
+    {
+      "id": "デルタフレア-DELTAFLAIR",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4906631"
+      ],
+      "productNames": [
+        "デルタフレア",
+        "DELTAFLAIR"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1129462611877056665
     } 
       ]
 }
