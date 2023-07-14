@@ -2215,7 +2215,10 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "ましゅめろ",
+        "Marshmero"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3878174"
