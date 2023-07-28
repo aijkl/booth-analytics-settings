@@ -3349,11 +3349,11 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
+      "titleKeywords": [
         "尻尾",
         "Tail"
       ],
+      "keywords": [],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
@@ -3372,11 +3372,11 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
+      "titleKeywords": [
         "耳",
         "Ear"
       ],
+      "keywords": [],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
@@ -3394,18 +3394,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [
-        "目的",
-        "項目",
-        "見た目",
-        "目安"
-      ],
-      "titleKeywords": [],
-      "keywords": [
+      "excludeKeywords": [],
+      "titleKeywords": [
         "目",
         "アイテクスチャ",
         "Eye"
       ],
+      "keywords": [],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
