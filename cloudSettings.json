@@ -3394,10 +3394,15 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "目的",
+        "項目",
+        "見た目"
+      ],
       "titleKeywords": [],
       "keywords": [
         "目",
+        "アイテクスチャ",
         "Eye"
       ],
       "productNames": [],
