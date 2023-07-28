@@ -3380,5 +3380,29 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 1134533522183434300
-    }      ]
+    },
+    {
+      "id": "目-eye",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "目",
+        "Eye"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1134534108664570017
+    }    
+  ]
 }
