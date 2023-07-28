@@ -3357,6 +3357,28 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 1134533120444608544
-    }
-      ]
+    },
+    {
+      "id": "耳-Ear",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "耳",
+        "Ear"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1134533522183434300
+    }      ]
 }
