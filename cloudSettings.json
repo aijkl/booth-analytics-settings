@@ -3353,7 +3353,10 @@
         "尻尾",
         "Tail"
       ],
-      "keywords": [],
+      "keywords": [
+        "尻尾",
+        "Tail"
+      ],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
@@ -3376,7 +3379,10 @@
         "耳",
         "Ear"
       ],
-      "keywords": [],
+      "keywords": [
+        "耳",
+        "Ear"
+      ],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
@@ -3400,7 +3406,11 @@
         "アイテクスチャ",
         "Eye"
       ],
-      "keywords": [],
+      "keywords": [
+        "目",
+        "アイテクスチャ",
+        "Eye"
+      ],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
