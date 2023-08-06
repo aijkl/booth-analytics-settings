@@ -3031,7 +3031,7 @@
       ],
       "minPrice": 0,
       "minLike": 10,
-      "channelId": 1104326977890046002
+      "channelId": 1116684660391542888
     },
     {
       "id": "ソフィナ-Sophina",
@@ -3431,6 +3431,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1134840530321276969
-    }    
+    } ,
+    {
+      "id": "フィオナ-fiona",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4592568"
+      ],
+      "productNames": [
+        "フィオナ",
+        "Fiona"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1081881411608395886
+    }   
   ]
 }
