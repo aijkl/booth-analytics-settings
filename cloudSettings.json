@@ -3419,7 +3419,9 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "マットキャップ"            
+      ],
       "titleKeywords": [],
       "keywords": [
         "4935406"
