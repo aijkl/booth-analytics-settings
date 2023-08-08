@@ -3419,7 +3419,9 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "マットキャップ"            
+      ],
       "titleKeywords": [],
       "keywords": [
         "4935406"
@@ -3456,6 +3458,20 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1081881411608395886
-    }   
+    },
+    {
+      "id": "like500",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 500,
+      "channelId": 1138393045096747089
+    }  
   ]
 }
