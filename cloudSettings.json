@@ -3472,6 +3472,30 @@
       "minPrice": 0,
       "minLike": 500,
       "channelId": 1138393045096747089
-    }  
+    },
+    {
+      "id": "フィオナ-fiona",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "3855451"
+      ],
+      "productNames": [
+        "Linla"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1139715021488799797
+    } 
   ]
 }
