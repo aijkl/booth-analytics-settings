@@ -2209,6 +2209,28 @@
       "channelId": 968642744102830090
     },
     {
+      "id": "noriben",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "noriben"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1139898415854133338
+    },
+    {
       "id": "mashu_sisters",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
