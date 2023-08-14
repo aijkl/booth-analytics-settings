@@ -3496,7 +3496,7 @@
       "channelId": 1138393045096747089
     },
     {
-      "id": "フィオナ-fiona",
+      "id": "Linla",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
@@ -3518,6 +3518,30 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1139715021488799797
-    } 
+    },
+    {
+      "id": "Lapwing",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4993931"
+      ],
+      "productNames": [
+        "Lapwing"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1140671898691317760
+    }
   ]
 }
