@@ -96,6 +96,43 @@
       "channelId": 927053922865152010
     },
     {
+      "id": "ツール",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "ツール",
+        "Tool"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863693612919291904
+    },    
+    {
+      "id": "Props",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D小道具"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 30,
+      "channelId": 889777895529140245
+    },
+    {
       "id": "udon",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
@@ -118,25 +155,20 @@
       "channelId": 863685622854189056
     },
     {
-      "id": "ツール",
+      "id": "World",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
+        "3D環境・ワールド"
       ],
       "excludeKeywords": [],
       "titleKeywords": [],
-      "keywords": [
-        "ツール",
-        "Tool"
-      ],
+      "keywords": [],
       "productNames": [],
       "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863693612919291904
+      "minLike": 20,
+      "channelId": 889778736038309938
     },
     {
       "id": "OSC",
@@ -275,38 +307,6 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 1082091796668088391
-    },    
-    {
-      "id": "Props",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D小道具"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 30,
-      "channelId": 889777895529140245
-    },
-    {
-      "id": "World",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D環境・ワールド"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 20,
-      "channelId": 889778736038309938
     },
     {
       "id": "Vroid",
