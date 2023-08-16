@@ -151,6 +151,38 @@
       "channelId": 1084853259056979979
     },
     {
+      "id": "新着アバター(良いね数)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 100,
+      "channelId": 869793035217666109
+    },
+    {
+      "id": "新着アバター(値段)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 2500,
+      "minLike": 0,
+      "channelId": 869803574450872391
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -772,38 +804,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 868276308747124757
-    },
-    {
-      "id": "新着アバター(良いね数)",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 100,
-      "channelId": 869793035217666109
-    },
-    {
-      "id": "新着アバター(値段)",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 2500,
-      "minLike": 0,
-      "channelId": 869803574450872391
     },
     {
       "id": "Hiina",
