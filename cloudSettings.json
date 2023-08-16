@@ -139,6 +139,26 @@
       "channelId": 863693612919291904
     },
     {
+      "id": "OSC",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "OSC"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 950927498093420564
+    },
+    {
       "id": "like50",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
@@ -1940,26 +1960,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 947280467013541948
-    },
-    {
-      "id": "OSC",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "OSC"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 950927498093420564
     },  
     {
       "id": "Lucife_3674297",
