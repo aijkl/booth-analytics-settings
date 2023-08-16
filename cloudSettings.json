@@ -182,6 +182,55 @@
       "minLike": 0,
       "channelId": 869803574450872391
     },
+    
+    {
+      "id": "Props",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D小道具"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 30,
+      "channelId": 889777895529140245
+    },
+    {
+      "id": "World",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D環境・ワールド"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 20,
+      "channelId": 889778736038309938
+    },
+    {
+      "id": "Vroid",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "VRoid"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 889779032508477491
+    },
     {
       "id": "lsbody",
       "sql": "",
@@ -972,55 +1021,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 882120767414870067
-    },
-    
-    {
-      "id": "Props",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D小道具"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 30,
-      "channelId": 889777895529140245
-    },
-    {
-      "id": "World",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D環境・ワールド"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 20,
-      "channelId": 889778736038309938
-    },
-    {
-      "id": "Vroid",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "VRoid"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 889779032508477491
     },
     {
       "id": "イメリス",
