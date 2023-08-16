@@ -82,6 +82,20 @@
       "channelId": 915058338713182210
     },
     {
+      "id": "sale-remind",
+      "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 927053922865152010
+    },
+    {
       "id": "udon",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
@@ -1775,20 +1789,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 938910455810895902
-    },
-    {
-      "id": "sale-remind",
-      "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 927053922865152010
     },
     {
       "id": "Leefa",
