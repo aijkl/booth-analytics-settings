@@ -66,6 +66,91 @@
       "channelId": 886850027299950593
     },
     {
+      "id": "udon",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [
+        "うどん猫",
+        "販売ワールド",
+        "Yudono",
+        "vroid"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "Udonsharp",
+        "Udon"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863685622854189056
+    },
+    {
+      "id": "ツール",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "ツール",
+        "Tool"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863693612919291904
+    },
+    {
+      "id": "like50",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 50,
+      "channelId": 863700227546677288
+    },
+    {
+      "id": "like100",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 100,
+      "channelId": 863700080450863104
+    },
+    {
+      "id": "like1000",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 1000,
+      "channelId": 1084853259056979979
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -637,91 +722,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 864852232049524756
-    },
-    {
-      "id": "udon",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [
-        "うどん猫",
-        "販売ワールド",
-        "Yudono",
-        "vroid"
-      ],
-      "titleKeywords": [],
-      "keywords": [
-        "Udonsharp",
-        "Udon"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863685622854189056
-    },
-    {
-      "id": "ツール",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "ツール",
-        "Tool"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863693612919291904
-    },
-    {
-      "id": "like50",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 50,
-      "channelId": 863700227546677288
-    },
-    {
-      "id": "like100",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 100,
-      "channelId": 863700080450863104
-    },
-    {
-      "id": "like1000",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 1000,
-      "channelId": 1084853259056979979
     },
     {
       "id": "ティコ",
