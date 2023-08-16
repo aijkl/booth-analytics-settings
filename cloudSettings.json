@@ -624,6 +624,36 @@
       "channelId": 1139898415854133338
     },
     {
+      "id": "こまど_Komado",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "2559783",
+        "3470989",
+        "2953391",
+        "1411609",
+        "2258111",
+        "4876459"
+      ],
+      "productNames": [
+        "こまど",
+        "Komado"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1091463216082718803
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -2907,36 +2937,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1090997022217212108
-    },
-    {
-      "id": "こまど_Komado",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": true,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "2559783",
-        "3470989",
-        "2953391",
-        "1411609",
-        "2258111",
-        "4876459"
-      ],
-      "productNames": [
-        "こまど",
-        "Komado"      
-      ],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 1091463216082718803
     },
     {
       "id": "ラムダ_Lambda",
