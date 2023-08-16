@@ -167,6 +167,22 @@
       "channelId": 869793035217666109
     },
     {
+      "id": "新着アバター(良いね数2)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 500,
+      "channelId": 906346810413568051
+    },
+    {
       "id": "新着アバター(値段)",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
@@ -1544,22 +1560,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 911698396421709834
-    },
-    {
-      "id": "新着アバター(良いね数2)",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 500,
-      "channelId": 906346810413568051
     },
     {
       "id": "リフレイン",
