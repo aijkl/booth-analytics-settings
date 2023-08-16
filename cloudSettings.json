@@ -66,6 +66,622 @@
       "channelId": 886850027299950593
     },
     {
+      "id": "Limited Sale",
+      "sql": "SELECT * FROM products WHERE products.is_limited_time AND (products.category = '3Dキャラクター' OR products.category = '3Dモデル（その他）')",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [
+        "Vroid"
+      ],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 915058338713182210
+    },
+    {
+      "id": "sale-remind",
+      "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 927053922865152010
+    },
+    {
+      "id": "ツール",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "ツール",
+        "Tool"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863693612919291904
+    },    
+    {
+      "id": "Props",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D小道具"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 30,
+      "channelId": 889777895529140245
+    },
+    {
+      "id": "udon",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [
+        "うどん猫",
+        "販売ワールド",
+        "Yudono",
+        "vroid"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "Udonsharp",
+        "Udon"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863685622854189056
+    },
+    {
+      "id": "World",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D環境・ワールド"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 20,
+      "channelId": 889778736038309938
+    },
+    {
+      "id": "OSC",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "OSC"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 950927498093420564
+    },
+    {
+      "id": "like50",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 50,
+      "channelId": 863700227546677288
+    },
+    {
+      "id": "like100",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 100,
+      "channelId": 863700080450863104
+    },
+    {
+      "id": "like500",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 500,
+      "channelId": 1138393045096747089
+    },
+    {
+      "id": "like1000",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 1000,
+      "channelId": 1084853259056979979
+    },
+    {
+      "id": "新着アバター(良いね数)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 100,
+      "channelId": 869793035217666109
+    },
+    {
+      "id": "新着アバター(良いね数2)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 500,
+      "channelId": 906346810413568051
+    },
+    {
+      "id": "新着アバター(値段)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 2500,
+      "minLike": 0,
+      "channelId": 869803574450872391
+    },
+    {
+      "id": "free",
+      "sql": "SELECT * FROM products WHERE products.product_id IN( SELECT products.product_id FROM products INNER JOIN product_variations ON  products.product_id == product_variations.product_id WHERE products.like >= 100 AND ( product_variations.name REGEXP(\"(.+おやつ.+)|(.+支援.+)|(.+おひねり.+)|(.+free.+)|(.+無料.+)\") OR  product_variations.price == 0 ) GROUP BY products.product_id HAVING COUNT(*) = ( SELECT COUNT(*) FROM product_variations WHERE product_id = products.product_id ) )",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,      
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "categories": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1082091796668088391
+    },
+    {
+      "id": "Vroid",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "VRoid"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 889779032508477491
+    },
+    {
+      "id": "Quest対応アバター",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "Quest"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 894384877393285121
+    },
+    {
+      "id": "Quest衣装小道具",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "Quest"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 894410125861863434
+    },
+    {
+      "id": "髪型",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [
+        "髪型",
+        "ヘア",
+        "Hair",
+        "hairstyle",
+        "hairpreset"
+      ],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 906344399833813062
+    },
+    {
+      "id": "尻尾-Tail",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [
+        "尻尾",
+        "Tail"
+      ],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1134533120444608544
+    },
+    {
+      "id": "耳-Ear",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [
+        "耳",
+        "Ear"
+      ],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1134533522183434300
+    },
+    {
+      "id": "目-eye",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [
+        "目",
+        "アイテクスチャ",
+        "Eye"
+      ],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1134534108664570017
+    },
+    {
+      "id": "アクセサリー",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "アクセサリー",
+        "accessory"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 906345001158574140
+    },
+    {
+      "id": "poiyomi",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "poiyomi"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968304464526200903
+    },
+    {
+      "id": "liltoon",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [
+      ],
+      "keywords": [
+        "liltoon",
+        "3087170"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968304490069499904
+    },
+    {
+      "id": "unity-chan_toon_shader",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "uts",
+        "uts2",
+        "uts3"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968642579816140820
+    },
+    {
+      "id": "unlit_wf",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "unlit_wf",
+        "unlitwf"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968642692055715860
+    },
+    {
+      "id": "silent_cel_shader",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "1894974",
+        "Silent's Cel Shading Shader",
+        "SCSS",
+        "セルシェーディング・シェーダー"       
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968642744102830090
+    },
+    {
+      "id": "noriben",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "noriben"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1139898415854133338
+    },
+    {
+      "id": "こまど_Komado",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "2559783",
+        "3470989",
+        "2953391",
+        "1411609",
+        "2258111",
+        "4876459"
+      ],
+      "productNames": [
+        "こまど",
+        "Komado"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1091463216082718803
+    },
+    {
+      "id": "まるぼでぃ_MARUBODY",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4376366",
+        "4398963",
+        "4358123",
+        "4390073"
+      ],
+      "productNames": [
+        "MARUBODY",
+        "まるぼでぃ"      
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1090995584300756992
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -639,91 +1255,6 @@
       "channelId": 864852232049524756
     },
     {
-      "id": "udon",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [
-        "うどん猫",
-        "販売ワールド",
-        "Yudono",
-        "vroid"
-      ],
-      "titleKeywords": [],
-      "keywords": [
-        "Udonsharp",
-        "Udon"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863685622854189056
-    },
-    {
-      "id": "ツール",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "ツール",
-        "Tool"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863693612919291904
-    },
-    {
-      "id": "like50",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 50,
-      "channelId": 863700227546677288
-    },
-    {
-      "id": "like100",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 100,
-      "channelId": 863700080450863104
-    },
-    {
-      "id": "like1000",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 1000,
-      "channelId": 1084853259056979979
-    },
-    {
       "id": "ティコ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -772,38 +1303,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 868276308747124757
-    },
-    {
-      "id": "新着アバター(良いね数)",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 100,
-      "channelId": 869793035217666109
-    },
-    {
-      "id": "新着アバター(値段)",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 2500,
-      "minLike": 0,
-      "channelId": 869803574450872391
     },
     {
       "id": "Hiina",
@@ -972,55 +1471,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 882120767414870067
-    },
-    
-    {
-      "id": "Props",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D小道具"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 30,
-      "channelId": 889777895529140245
-    },
-    {
-      "id": "World",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D環境・ワールド"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 20,
-      "channelId": 889778736038309938
-    },
-    {
-      "id": "Vroid",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "VRoid"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 889779032508477491
     },
     {
       "id": "イメリス",
@@ -1331,46 +1781,6 @@
       "channelId": 892765453326364734
     },
     {
-      "id": "Quest対応アバター",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "Quest"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 894384877393285121
-    },
-    {
-      "id": "Quest衣装小道具",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "Quest"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 894410125861863434
-    },
-    {
       "id": "アッシュ",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -1447,55 +1857,6 @@
       "channelId": 904307072324222976
     },
     {
-      "id": "髪型",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [
-        "髪型",
-        "ヘア",
-        "Hair",
-        "hairstyle",
-        "hairpreset"
-      ],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 906344399833813062
-    },
-    {
-      "id": "アクセサリー",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "アクセサリー",
-        "accessory"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 906345001158574140
-    },
-    {
       "id": "まりえる",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -1546,22 +1907,6 @@
       "channelId": 911698396421709834
     },
     {
-      "id": "新着アバター(良いね数2)",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 500,
-      "channelId": 906346810413568051
-    },
-    {
       "id": "リフレイン",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -1609,22 +1954,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 913154353249026068
-    },
-    {
-      "id": "Limited Sale",
-      "sql": "SELECT * FROM products WHERE products.is_limited_time AND (products.category = '3Dキャラクター' OR products.category = '3Dモデル（その他）')",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [
-        "Vroid"
-      ],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 915058338713182210
     },
     {
       "id": "alicia",
@@ -1777,20 +2106,6 @@
       "channelId": 938910455810895902
     },
     {
-      "id": "sale-remind",
-      "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 927053922865152010
-    },
-    {
       "id": "Leefa",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -1940,26 +2255,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 947280467013541948
-    },
-    {
-      "id": "OSC",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "OSC"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 950927498093420564
     },  
     {
       "id": "Lucife_3674297",
@@ -2089,146 +2384,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 968304436839587891
-    },
-    {
-      "id": "poiyomi",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "poiyomi"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968304464526200903
-    },
-    {
-      "id": "liltoon",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [
-      ],
-      "keywords": [
-        "liltoon",
-        "3087170"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968304490069499904
-    },
-    {
-      "id": "unity-chan_toon_shader",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "uts",
-        "uts2",
-        "uts3"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968642579816140820
-    },
-    {
-      "id": "unlit_wf",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "unlit_wf",
-        "unlitwf"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968642692055715860
-    },
-    {
-      "id": "silent_cel_shader",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "1894974",
-        "Silent's Cel Shading Shader",
-        "SCSS",
-        "セルシェーディング・シェーダー"       
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968642744102830090
-    },
-    {
-      "id": "noriben",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "noriben"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 1139898415854133338
     },
     {
       "id": "mashu_sisters",
@@ -2635,20 +2790,6 @@
       "channelId": 1073593494330941470
     },
     {
-      "id": "free",
-      "sql": "SELECT * FROM products WHERE products.product_id IN( SELECT products.product_id FROM products INNER JOIN product_variations ON  products.product_id == product_variations.product_id WHERE products.like >= 100 AND ( product_variations.name REGEXP(\"(.+おやつ.+)|(.+支援.+)|(.+おひねり.+)|(.+free.+)|(.+無料.+)\") OR  product_variations.price == 0 ) GROUP BY products.product_id HAVING COUNT(*) = ( SELECT COUNT(*) FROM product_variations WHERE product_id = products.product_id ) )",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,      
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "categories": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 1082091796668088391
-    },
-    {
       "id": "リア",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -2696,34 +2837,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1085516558199169034
-    },
-    {
-      "id": "まるぼでぃ_MARUBODY",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": true,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "4376366",
-        "4398963",
-        "4358123",
-        "4390073"
-      ],
-      "productNames": [
-        "MARUBODY",
-        "まるぼでぃ"      
-      ],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 1090995584300756992
     },
     {
       "id": "ネミア_Nenmir",
@@ -2824,36 +2937,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1090997022217212108
-    },
-    {
-      "id": "こまど_Komado",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": true,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "2559783",
-        "3470989",
-        "2953391",
-        "1411609",
-        "2258111",
-        "4876459"
-      ],
-      "productNames": [
-        "こまど",
-        "Komado"      
-      ],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 1091463216082718803
     },
     {
       "id": "ラムダ_Lambda",
@@ -3358,76 +3441,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1133610342249938968
-    } ,
-    {
-      "id": "尻尾-Tail",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [
-        "尻尾",
-        "Tail"
-      ],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 1134533120444608544
-    },
-    {
-      "id": "耳-Ear",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [
-        "耳",
-        "Ear"
-      ],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 1134533522183434300
-    },
-    {
-      "id": "目-eye",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [
-        "目",
-        "アイテクスチャ",
-        "Eye"
-      ],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 1134534108664570017
     },
     {
       "id": "トキ-Toki",
@@ -3480,20 +3493,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1081881411608395886
-    },
-    {
-      "id": "like500",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 500,
-      "channelId": 1138393045096747089
     },
     {
       "id": "Linla",
