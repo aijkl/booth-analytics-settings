@@ -232,6 +232,46 @@
       "channelId": 889779032508477491
     },
     {
+      "id": "Quest対応アバター",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "Quest"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 894384877393285121
+    },
+    {
+      "id": "Quest衣装小道具",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "Quest"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 894410125861863434
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -1329,46 +1369,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 892765453326364734
-    },
-    {
-      "id": "Quest対応アバター",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3Dキャラクター"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "Quest"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 894384877393285121
-    },
-    {
-      "id": "Quest衣装小道具",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "Quest"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 10,
-      "channelId": 894410125861863434
     },
     {
       "id": "アッシュ",
