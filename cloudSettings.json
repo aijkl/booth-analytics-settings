@@ -387,6 +387,146 @@
       "channelId": 906345001158574140
     },
     {
+      "id": "poiyomi",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "poiyomi"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968304464526200903
+    },
+    {
+      "id": "liltoon",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [
+      ],
+      "keywords": [
+        "liltoon",
+        "3087170"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968304490069499904
+    },
+    {
+      "id": "unity-chan_toon_shader",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "uts",
+        "uts2",
+        "uts3"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968642579816140820
+    },
+    {
+      "id": "unlit_wf",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "unlit_wf",
+        "unlitwf"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968642692055715860
+    },
+    {
+      "id": "silent_cel_shader",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "1894974",
+        "Silent's Cel Shading Shader",
+        "SCSS",
+        "セルシェーディング・シェーダー"       
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 968642744102830090
+    },
+    {
+      "id": "noriben",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "noriben"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1139898415854133338
+    },
+    {
       "id": "lsbody",
       "sql": "",
       "useAvatarRelevanceEvaluation": true,
@@ -2089,146 +2229,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 968304436839587891
-    },
-    {
-      "id": "poiyomi",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "poiyomi"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968304464526200903
-    },
-    {
-      "id": "liltoon",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [
-      ],
-      "keywords": [
-        "liltoon",
-        "3087170"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968304490069499904
-    },
-    {
-      "id": "unity-chan_toon_shader",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "uts",
-        "uts2",
-        "uts3"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968642579816140820
-    },
-    {
-      "id": "unlit_wf",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "unlit_wf",
-        "unlitwf"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968642692055715860
-    },
-    {
-      "id": "silent_cel_shader",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "1894974",
-        "Silent's Cel Shading Shader",
-        "SCSS",
-        "セルシェーディング・シェーダー"       
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 968642744102830090
-    },
-    {
-      "id": "noriben",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D衣装・装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "noriben"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 1139898415854133338
     },
     {
       "id": "mashu_sisters",
