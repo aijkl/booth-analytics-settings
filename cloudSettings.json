@@ -36,12 +36,7 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": false,
       "categories": [],
-      "excludeKeywords": [
-        "Vroid",
-        "RVC",
-        "ボイス",
-        "アクリルキーホルダー"
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -64,6 +59,32 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 886850027299950593
+    },
+    {
+      "id": "To_Action",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "Splatter",
+        "Nipple",
+        "乳首",
+        "ぶっかけ",
+        "クリトリス",
+        "DPS",
+        "おまんこ",
+        "NSFW",
+        "RVC",
+        "ボイス",
+        "アクリルキーホルダー"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1141782984861692054
     },
     {
       "id": "Limited Sale",
