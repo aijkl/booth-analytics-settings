@@ -3562,6 +3562,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1140671898691317760
+    },
+    {
+      "id": "藍子さん-AIKOSAN",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4925619"
+      ],
+      "productNames": [
+        "藍子さん",
+        "AIKOSAN"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1142081784901800016
     }
   ]
 }
