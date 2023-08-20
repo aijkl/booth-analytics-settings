@@ -303,6 +303,22 @@
       "channelId": 906346810413568051
     },
     {
+      "id": "新着アバター(良いね数3)",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3Dキャラクター"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 1000,
+      "channelId": 1142799953467539466
+    },
+    {
       "id": "新着アバター(値段)",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
