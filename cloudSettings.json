@@ -31,20 +31,6 @@
   ],
   "channelRules": [
    {
-      "id": "新着順",
-      "sql": "SELECT * FROM products",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": false,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 885810966460235777
-    },
-    {
       "id": "アダルト",
       "sql": "SELECT * FROM products WHERE products.is_adult == true",
       "useAvatarRelevanceEvaluation": false,
@@ -82,13 +68,30 @@
         "NSFW",
         "RVC",
         "ボイス",
-        "アクリルキーホルダー"
+        "アクリルキーホルダー",
+        "アナル",
+        "陰毛"
       ],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
       "channelId": 1141782984861692054
     },
+    {
+      "id": "新着順",
+      "sql": "SELECT * FROM products",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": false,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 885810966460235777
+    },
+    
     {
       "id": "Limited Sale",
       "sql": "SELECT * FROM products WHERE products.is_limited_time AND (products.category = '3Dキャラクター' OR products.category = '3Dモデル（その他）')",
