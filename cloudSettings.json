@@ -123,6 +123,26 @@
       "channelId": 927053922865152010
     },
     {
+      "id": "LimitedTime",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "LimitedTime",
+        "Limited Time",
+        "期間限定",
+        "sale",
+        "セール"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 876095790882373632
+    },
+    {
       "id": "ツール",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
@@ -1465,26 +1485,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 872090215475458078
-    },
-    {
-      "id": "LimitedTime",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "LimitedTime",
-        "Limited Time",
-        "期間限定",
-        "sale",
-        "セール"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 876095790882373632
     },
     {
       "id": "宙猫",
