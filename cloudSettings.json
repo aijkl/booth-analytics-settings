@@ -123,6 +123,49 @@
       "channelId": 927053922865152010
     },
     {
+      "id": "LimitedTime",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）",
+	"ツール",
+        "Tool",
+ 	"3D小道具",
+	"3D環境・ワールド",
+	"3Dキャラクター",
+	"VRoid",
+	"3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）",
+        "音楽（その他）",
+        "音楽一般",
+        "BGM素材",
+        "アニメーション",
+        "時計",
+        "ポスター",
+        "技術書",
+        "PCゲーム"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "LimitedTime",
+        "Limited Time",
+        "期間限定",
+        "sale",
+        "セール"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 876095790882373632
+    },
+    {
       "id": "ツール",
       "sql": "",
       "useAvatarRelevanceEvaluation": false,
@@ -1465,26 +1508,6 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 872090215475458078
-    },
-    {
-      "id": "LimitedTime",
-      "sql": "",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "LimitedTime",
-        "Limited Time",
-        "期間限定",
-        "sale",
-        "セール"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 876095790882373632
     },
     {
       "id": "宙猫",
