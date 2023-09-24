@@ -3788,6 +3788,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1152296624538779688
+    },
+    {
+      "id": "おまねこ-omaneko",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4955312"
+      ],
+      "productNames": [
+        "おまねこ",
+        "omaneko"            
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1155553982773731409
     }
   ]
 }
