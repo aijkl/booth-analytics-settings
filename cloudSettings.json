@@ -3867,6 +3867,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1169614156069093416
+    },
+    {
+      "id": "イリス_iris_namekuji1337",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "5209634"
+      ],
+      "productNames": [
+        "イリス",
+	"iris"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1170087046610690221
     }
   ]
 }
