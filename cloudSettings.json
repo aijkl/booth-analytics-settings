@@ -1859,7 +1859,9 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+	"5209634"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3299594"
@@ -3880,7 +3882,9 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": 
+	"3299594"
+	    ],
       "titleKeywords": [],
       "keywords": [
         "5209634"
