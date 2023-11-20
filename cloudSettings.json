@@ -3900,6 +3900,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1170087046610690221
+    },
+    {
+      "id": "ヴェール-Velle",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4951792"
+      ],
+      "productNames": [
+        "ヴェール",
+	"Velle"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1175950983440900146
     }
   ]
 }
