@@ -3975,6 +3975,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1180235089557344307
+    },
+    {
+      "id": "シフォン-chiffon",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "5354471"
+      ],
+      "productNames": [
+        "シフォン",
+	"chiffon"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1187062535862616175
     }
   ]
 }
