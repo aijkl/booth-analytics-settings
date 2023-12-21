@@ -4000,6 +4000,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1187062535862616175
+    },
+    {
+      "id": "NH-01-",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "5314574"
+      ],
+      "productNames": [
+        "NH-01",
+	"NH-02"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1187063108305436793
     }
   ]
 }
