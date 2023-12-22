@@ -4026,6 +4026,35 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1187063108305436793
+    },
+    {
+      "id": "pon_and_chune",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+	      "epona"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "5335595"
+      ],
+      "productNames": [
+        "ぽんとちゅね",
+        "pon and chune",
+	"pon",      
+        "chune"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1187866952086081596
     }
   ]
 }
