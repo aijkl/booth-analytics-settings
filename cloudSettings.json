@@ -4080,6 +4080,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1187867473773604904
+    },
+    {
+      "id": "Saria",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "5349700"
+      ],
+      "productNames": [
+        "サリア",
+	"Saria"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1188048987136200724
     }
   ]
 }
