@@ -17,11 +17,11 @@
   "gameStatues": [
     {
       "botId": "booth-bot-2",
-      "status": "Booth2をテスト中"
+      "gameStatus": "Booth2をテスト中"
     },
     {
       "botId": "booth-bot-2",
-      "status": "Booth3をテスト中"
+      "gameStatus": "Booth3をテスト中"
     }
   ],
   "relevanceEvaluationKeywords": [
