@@ -43,7 +43,7 @@
       "sql": "SELECT * FROM products",
       "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
-      "useModifyService": false,
+      "useModifyService": true,
       "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
