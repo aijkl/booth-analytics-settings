@@ -1,0 +1,98 @@
+{
+  "keyword": "VRChat",
+  "fetchIntervalMilliSeconds": 7000,
+  "updateIntervalMilliSeconds": 5400000,
+  "modifyIntervalMilliSeconds": 600,
+  "saleCheckIntervalMilliSeconds": 86400000,
+  "guildId": 1189209683907575879,
+  "exceptionChannelId": 1189211073895739452,
+  "reminderModifyDays": 10,
+  "modifyStartPage": 1,
+  "modifyEndPage": 2,
+  "notifyStartPage": 1,
+  "notifyEndPage": 1,
+  "footerText": "From BoothDB",
+  "gameStatusText": "BoothDB",
+  "notifiedDataKeepDays": 7,
+  "gameStatues": [
+    {
+      "botId": "booth-bot-2",
+      "status": "Booth2をテスト中"
+    },
+    {
+      "botId": "booth-bot-2",
+      "status": "Booth3をテスト中"
+    }
+  ],
+  "relevanceEvaluationKeywords": [
+    "用",
+    "オリジナル"
+  ],
+  "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-assets/main/adult_warning.png",
+  "blockRules": [
+    {
+      "shopId": "kittycatalog"
+    },
+    {
+      "shopId": "saisai"
+    }
+  ],
+  "channelRules": [
+    {
+      "id": "新着順",
+      "sql": "SELECT * FROM products",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": false,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1189210944203661423
+    },
+    {
+      "id": "アダルト",
+      "sql": "SELECT * FROM products WHERE products.is_adult == true",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 1189210996594716754
+    },
+    {
+      "id": "Kikyo",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "3681787"
+      ],
+      "productNames": [
+        "桔梗",
+        "Kikyo"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1189210961656172564
+    }
+  ]
+}
