@@ -4133,6 +4133,31 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1188666574006145044
+    },
+    {
+      "id": "Haru",
+      "sql": "",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "4668352"
+      ],
+      "productNames": [
+        "はる",
+	"Haru"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1190299282910232696
     }
   ]
 }
