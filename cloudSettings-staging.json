@@ -4,6 +4,7 @@
   "updateIntervalMilliSeconds": 5400000,
   "modifyIntervalMilliSeconds": 600,
   "saleCheckIntervalMilliSeconds": 86400000,
+  "notifyIntervalMilliSeconds": 10000,
   "guildId": 1189209683907575879,
   "exceptionChannelId": 1189211073895739452,
   "reminderModifyDays": 10,
