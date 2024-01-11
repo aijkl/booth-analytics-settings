@@ -4,6 +4,7 @@
   "updateIntervalMilliSeconds": 5400000,
   "modifyIntervalMilliSeconds": 600,
   "saleCheckIntervalMilliSeconds": 86400000,
+  "notifyIntervalMilliSeconds": 20000,
   "guildId": 1189209683907575879,
   "exceptionChannelId": 1189211073895739452,
   "reminderModifyDays": 10,
@@ -40,7 +41,7 @@
   "channelRules": [
     {
       "id": "新着順",
-      "sql": "SELECT * FROM products LIMIT 10",
+      "sql": "SELECT * FROM products",
       "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
