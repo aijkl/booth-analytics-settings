@@ -15,6 +15,9 @@
   "footerText": "From BoothDB",
   "gameStatusText": "BoothDB",
   "notifiedDataKeepDays": 7,
+  "adultWords": [
+    "無料アバター"
+  ],
   "gameStatues": [
     {
       "botId": "booth-bot-2",
