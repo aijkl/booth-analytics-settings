@@ -3,6 +3,7 @@
   "fetchIntervalMilliSeconds": 7000,
   "updateIntervalMilliSeconds": 5400000,
   "modifyIntervalMilliSeconds": 6000,
+  "notifyIntervalMilliSeconds": 20000,
   "saleCheckIntervalMilliSeconds": 86400000,
   "guildId": 858188499270369322,
   "exceptionChannelId": 863343940249714709,
@@ -12,7 +13,20 @@
   "notifyStartPage": 1,
   "notifyEndPage": 1,
   "footerText": "https://booth.pm/",
-  "gameStatusText": ".NET7.0",
+  "gameStatues": [
+    {
+      "botId": "booth-bot-1",
+      "gameStatus": "Booth1をテスト中"
+    },
+    {
+      "botId": "booth-bot-2",
+      "gameStatus": "Booth2をテスト中"
+    },
+    {
+      "botId": "booth-bot-3",
+      "gameStatus": "Booth3をテスト中"
+    }
+  ],
   "notifiedDataKeepDays": 7,
   "relevanceEvaluationKeywords": [
     "専用"
@@ -21,7 +35,7 @@
   "blockRules": [
     {
       "shopId": "saisai"
-    },   
+    },
     {
       "shopId": "paletteproject"
     },
@@ -29,10 +43,12 @@
       "shopId": "iktk"
     }
   ],
+  "adultWords": [],
   "channelRules": [
-   {
+    {
       "id": "アダルト",
       "sql": "SELECT * FROM products WHERE products.is_adult == true",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
@@ -49,6 +65,7 @@
     {
       "id": "To_Action",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
@@ -67,8 +84,8 @@
         "射精",
         "NSFW",
         "ERP",
-	"Horned",
-	"Horny",      
+        "Horned",
+        "Horny",
         "RVC",
         "ボイス",
         "アクリルキーホルダー",
@@ -76,16 +93,16 @@
         "えっち",
         "陰毛",
         "Pubic Hair",
-	"ボディペイント",
+        "ボディペイント",
         "body paint",
-	"エッチ",
+        "エッチ",
         "ボンデージ",
         "ペットプレイ",
-	"ぺ二バン",
-	"N式ちんちん",
-	"TINPO",
-	"CHINPO",
-	"TKB"      
+        "ぺ二バン",
+        "N式ちんちん",
+        "TINPO",
+        "CHINPO",
+        "TKB"
       ],
       "productNames": [],
       "minPrice": 0,
@@ -95,6 +112,7 @@
     {
       "id": "新着順",
       "sql": "SELECT * FROM products",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": false,
       "categories": [],
@@ -106,10 +124,10 @@
       "minLike": 0,
       "channelId": 885810966460235777
     },
-    
     {
       "id": "Limited Sale",
       "sql": "SELECT * FROM products WHERE products.is_limited_time AND (products.category = '3Dキャラクター' OR products.category = '3Dモデル（その他）')",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
@@ -126,6 +144,7 @@
     {
       "id": "sale-remind",
       "sql": "SELECT * FROM products WHERE products.start_datetime <= datetime('now','localtime') AND (products.end_datetime IS NULL OR products.end_datetime >= datetime('now','localtime'))",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
@@ -140,19 +159,20 @@
     {
       "id": "LimitedTime",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
         "ソフトウェア",
         "ゲーム関連商品",
         "素材（その他）",
-	"ツール",
+        "ツール",
         "Tool",
- 	"3D小道具",
-	"3D環境・ワールド",
-	"3Dキャラクター",
-	"VRoid",
-	"3D衣装・装飾品",
+        "3D小道具",
+        "3D環境・ワールド",
+        "3Dキャラクター",
+        "VRoid",
+        "3D衣装・装飾品",
         "3Dモデル（その他）",
         "ゲーム関連商品",
         "素材（その他）",
@@ -183,6 +203,7 @@
     {
       "id": "ツール",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -200,10 +221,11 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 863693612919291904
-    },    
+    },
     {
       "id": "Props",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -220,19 +242,20 @@
     {
       "id": "udon",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
-      "categories":[
+      "categories": [
         "ソフトウェア",
         "ゲーム関連商品",
         "素材（その他）",
-	"ツール",
+        "ツール",
         "Tool",
- 	"3D小道具",
-	"3D環境・ワールド",
-	"3Dキャラクター",
-	"VRoid",
-	"3D衣装・装飾品",
+        "3D小道具",
+        "3D環境・ワールド",
+        "3Dキャラクター",
+        "VRoid",
+        "3D衣装・装飾品",
         "3Dモデル（その他）",
         "ゲーム関連商品",
         "素材（その他）",
@@ -266,6 +289,7 @@
     {
       "id": "World",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -282,6 +306,7 @@
     {
       "id": "OSC",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -302,19 +327,20 @@
     {
       "id": "like50",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
-      "categories":[
+      "categories": [
         "ソフトウェア",
         "ゲーム関連商品",
         "素材（その他）",
-	"ツール",
+        "ツール",
         "Tool",
- 	"3D小道具",
-	"3D環境・ワールド",
-	"3Dキャラクター",
-	"VRoid",
-	"3D衣装・装飾品",
+        "3D小道具",
+        "3D環境・ワールド",
+        "3Dキャラクター",
+        "VRoid",
+        "3D衣装・装飾品",
         "3Dモデル（その他）",
         "ゲーム関連商品",
         "素材（その他）",
@@ -339,19 +365,20 @@
     {
       "id": "like100",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
         "ソフトウェア",
         "ゲーム関連商品",
         "素材（その他）",
-	"ツール",
+        "ツール",
         "Tool",
- 	"3D小道具",
-	"3D環境・ワールド",
-	"3Dキャラクター",
-	"VRoid",
-	"3D衣装・装飾品",
+        "3D小道具",
+        "3D環境・ワールド",
+        "3Dキャラクター",
+        "VRoid",
+        "3D衣装・装飾品",
         "3Dモデル（その他）",
         "ゲーム関連商品",
         "素材（その他）",
@@ -376,6 +403,7 @@
     {
       "id": "like500",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
@@ -390,6 +418,7 @@
     {
       "id": "like1000",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
@@ -404,6 +433,7 @@
     {
       "id": "新着アバター(良いね数)",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -420,6 +450,7 @@
     {
       "id": "新着アバター(良いね数2)",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -436,6 +467,7 @@
     {
       "id": "新着アバター(良いね数3)",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -452,12 +484,15 @@
     {
       "id": "新着アバター(値段)",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
         "3Dキャラクター"
       ],
-      "excludeKeywords": ["Vroid"],
+      "excludeKeywords": [
+        "Vroid"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -468,12 +503,13 @@
     {
       "id": "free",
       "sql": "SELECT * FROM products WHERE products.product_id IN( SELECT products.product_id FROM products INNER JOIN product_variations ON  products.product_id == product_variations.product_id WHERE products.like >= 100 AND ( product_variations.name REGEXP(\"(.+おやつ.+)|(.+支援.+)|(.+おひねり.+)|(.+free.+)|(.+無料.+)\") OR  product_variations.price == 0 ) GROUP BY products.product_id HAVING COUNT(*) = ( SELECT COUNT(*) FROM product_variations WHERE product_id = products.product_id ) )",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,      
+      "useModifyService": true,
+      "categories": [],
       "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [],
-      "categories": [],
       "productNames": [],
       "minPrice": 0,
       "minLike": 0,
@@ -482,6 +518,7 @@
     {
       "id": "Vroid",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -498,6 +535,7 @@
     {
       "id": "Quest対応アバター",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -516,6 +554,7 @@
     {
       "id": "Quest衣装小道具",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -538,6 +577,7 @@
     {
       "id": "髪型",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -564,6 +604,7 @@
     {
       "id": "尻尾-Tail",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -587,6 +628,7 @@
     {
       "id": "耳-Ear",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -610,6 +652,7 @@
     {
       "id": "目-eye",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -634,6 +677,7 @@
     {
       "id": "アクセサリー",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -657,6 +701,7 @@
     {
       "id": "poiyomi",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -679,6 +724,7 @@
     {
       "id": "liltoon",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -689,8 +735,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [],
-      "titleKeywords": [
-      ],
+      "titleKeywords": [],
       "keywords": [
         "liltoon",
         "3087170"
@@ -703,6 +748,7 @@
     {
       "id": "unity-chan_toon_shader",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -727,6 +773,7 @@
     {
       "id": "unlit_wf",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -750,6 +797,7 @@
     {
       "id": "silent_cel_shader",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -765,7 +813,7 @@
         "1894974",
         "Silent's Cel Shading Shader",
         "SCSS",
-        "セルシェーディング・シェーダー"       
+        "セルシェーディング・シェーダー"
       ],
       "productNames": [],
       "minPrice": 0,
@@ -775,6 +823,7 @@
     {
       "id": "noriben",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -797,6 +846,7 @@
     {
       "id": "こまど_Komado",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -815,11 +865,11 @@
         "1411609",
         "2258111",
         "4876459",
-	"5354471"
+        "5354471"
       ],
       "productNames": [
         "こまど",
-        "Komado"      
+        "Komado"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -828,6 +878,7 @@
     {
       "id": "まるぼでぃ_MARUBODY",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -847,7 +898,7 @@
       ],
       "productNames": [
         "MARUBODY",
-        "まるぼでぃ"      
+        "まるぼでぃ"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -856,6 +907,7 @@
     {
       "id": "lsbody",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -881,6 +933,7 @@
     {
       "id": "幽狐",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -906,6 +959,7 @@
     {
       "id": "狐雪",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -931,6 +985,7 @@
     {
       "id": "ミーシェ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -956,6 +1011,7 @@
     {
       "id": "京狐",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -981,6 +1037,7 @@
     {
       "id": "スノウエルフ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1006,6 +1063,7 @@
     {
       "id": "メリノ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1031,6 +1089,7 @@
     {
       "id": "リーメリーバ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1057,6 +1116,7 @@
     {
       "id": "Noy",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1081,6 +1141,7 @@
     {
       "id": "薄荷",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1106,6 +1167,7 @@
     {
       "id": "CyberCat",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1131,6 +1193,7 @@
     {
       "id": "Lua",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1155,6 +1218,7 @@
     {
       "id": "ウルフェリア",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1180,6 +1244,7 @@
     {
       "id": "みみの",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1205,6 +1270,7 @@
     {
       "id": "ここあ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1230,6 +1296,7 @@
     {
       "id": "ラスク",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1255,6 +1322,7 @@
     {
       "id": "ファジー",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1279,6 +1347,7 @@
     {
       "id": "ルシナ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1304,6 +1373,7 @@
     {
       "id": "キッシュ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1330,6 +1400,7 @@
     {
       "id": "リアアリス",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1351,10 +1422,11 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 863276042759045141
-    },  
+    },
     {
       "id": "イヨ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1379,6 +1451,7 @@
     {
       "id": "しいか",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1404,6 +1477,7 @@
     {
       "id": "透羽",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1429,6 +1503,7 @@
     {
       "id": "ティコ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1454,6 +1529,7 @@
     {
       "id": "ルエナ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1479,6 +1555,7 @@
     {
       "id": "Hiina",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1504,6 +1581,7 @@
     {
       "id": "レイニィ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1528,6 +1606,7 @@
     {
       "id": "宙猫",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1553,6 +1632,7 @@
     {
       "id": "杏里",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1578,6 +1658,7 @@
     {
       "id": "メープル",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1602,6 +1683,7 @@
     {
       "id": "シアノス",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1627,6 +1709,7 @@
     {
       "id": "イメリス",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1652,6 +1735,7 @@
     {
       "id": "のらきゃっと",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1681,6 +1765,7 @@
     {
       "id": "セフィラ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1706,6 +1791,7 @@
     {
       "id": "フィリナ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1732,6 +1818,7 @@
     {
       "id": "狐薄",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1758,6 +1845,7 @@
     {
       "id": "猫山苗",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1784,6 +1872,7 @@
     {
       "id": "リンツ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1809,6 +1898,7 @@
     {
       "id": "ユウ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1833,6 +1923,7 @@
     {
       "id": "Grus",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1857,6 +1948,7 @@
     {
       "id": "Iris",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1867,7 +1959,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-	"5209634"
+        "5209634"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -1884,6 +1976,7 @@
     {
       "id": "ユキ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1912,6 +2005,7 @@
     {
       "id": "ニャスカ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1937,6 +2031,7 @@
     {
       "id": "アッシュ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1962,6 +2057,7 @@
     {
       "id": "くろなつ",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1988,6 +2084,7 @@
     {
       "id": "舞夜",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2013,6 +2110,7 @@
     {
       "id": "まりえる",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2038,6 +2136,7 @@
     {
       "id": "竜胆",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2063,6 +2162,7 @@
     {
       "id": "リフレイン",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2088,6 +2188,7 @@
     {
       "id": "sora",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2112,6 +2213,7 @@
     {
       "id": "alicia",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2137,6 +2239,7 @@
     {
       "id": "karin",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2162,6 +2265,7 @@
     {
       "id": "milk",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2187,6 +2291,7 @@
     {
       "id": "ramune",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2212,6 +2317,7 @@
     {
       "id": "mint",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2237,6 +2343,7 @@
     {
       "id": "SvartLilja",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2262,6 +2369,7 @@
     {
       "id": "Leefa",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2287,6 +2395,7 @@
     {
       "id": "usa-aristore",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -2296,8 +2405,7 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [
         "3441511"
@@ -2310,6 +2418,7 @@
     {
       "id": "usasaki",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2335,6 +2444,7 @@
     {
       "id": "anon",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2360,6 +2470,7 @@
     {
       "id": "KissMa",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2388,6 +2499,7 @@
     {
       "id": "Kikyo",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2409,10 +2521,11 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 947280467013541948
-    },  
+    },
     {
       "id": "Lucife_3674297",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2440,6 +2553,7 @@
     {
       "id": "Mona_2841015",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2465,6 +2579,7 @@
     {
       "id": "luruleah_3708060",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2490,6 +2605,7 @@
     {
       "id": "tolass_and_wedge",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2516,6 +2632,7 @@
     {
       "id": "amanatsu",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2542,6 +2659,7 @@
     {
       "id": "mashu_sisters",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2570,6 +2688,7 @@
     {
       "id": "ciel_3368697",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2595,6 +2714,7 @@
     {
       "id": "undone_kittens_3067603",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2620,6 +2740,7 @@
     {
       "id": "フルーリア4005540",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2645,6 +2766,7 @@
     {
       "id": "ミュリシア3302156",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2670,6 +2792,7 @@
     {
       "id": "セレスティア-selestia",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2695,6 +2818,7 @@
     {
       "id": "うるる-ururu",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2720,6 +2844,7 @@
     {
       "id": "華夜-Kaya",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2747,6 +2872,7 @@
     {
       "id": "ルーナリット-Lunalitt",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2772,6 +2898,7 @@
     {
       "id": "ぞめ-Zome",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2797,6 +2924,7 @@
     {
       "id": "サフィーSapphy",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2822,6 +2950,7 @@
     {
       "id": "エポナ-Epona",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2847,6 +2976,7 @@
     {
       "id": "TubeRose",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2871,6 +3001,7 @@
     {
       "id": "ソラハ-Soraha",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2896,6 +3027,7 @@
     {
       "id": "御咲ライネ-Raine",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2921,6 +3053,7 @@
     {
       "id": "ヨル-Yoll",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2946,6 +3079,7 @@
     {
       "id": "リア",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2961,7 +3095,7 @@
         "3687430"
       ],
       "productNames": [
-        "りあちゃん"      
+        "りあちゃん"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -2970,6 +3104,7 @@
     {
       "id": "ホノカ-Honoka",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -2986,7 +3121,7 @@
       ],
       "productNames": [
         "ホノカ",
-        "Honoka"      
+        "Honoka"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -2995,6 +3130,7 @@
     {
       "id": "ネミア_Nenmir",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3011,7 +3147,7 @@
       ],
       "productNames": [
         "ネミア",
-        "Nenmir"      
+        "Nenmir"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3020,6 +3156,7 @@
     {
       "id": "イェーナ_Yena",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3036,7 +3173,7 @@
       ],
       "productNames": [
         "イェーナ",
-        "Yena"      
+        "Yena"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3045,6 +3182,7 @@
     {
       "id": "ルキフェル_Lucifer",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3061,7 +3199,7 @@
       ],
       "productNames": [
         "ルキフェル",
-        "Lucifer"      
+        "Lucifer"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3070,6 +3208,7 @@
     {
       "id": "リセ_Lise",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3086,7 +3225,7 @@
       ],
       "productNames": [
         "リセ",
-        "Lise"      
+        "Lise"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3095,6 +3234,7 @@
     {
       "id": "ラムダ_Lambda",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3111,7 +3251,7 @@
       ],
       "productNames": [
         "ラムダ",
-        "lambda"      
+        "lambda"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3120,6 +3260,7 @@
     {
       "id": "むろむ_muromu",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3136,7 +3277,7 @@
       ],
       "productNames": [
         "むろむ",
-        "muromu"      
+        "muromu"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3145,6 +3286,7 @@
     {
       "id": "萌_moe",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3161,7 +3303,7 @@
       ],
       "productNames": [
         "萌",
-        "moe"      
+        "moe"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3170,6 +3312,7 @@
     {
       "id": "ルフィナ_Rufina",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3186,7 +3329,7 @@
       ],
       "productNames": [
         "ルフィナ",
-        "Rufina"      
+        "Rufina"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3195,6 +3338,7 @@
     {
       "id": "まめひなた_Mamehinata",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3211,7 +3355,7 @@
       ],
       "productNames": [
         "まめひなた",
-        "Mamehinata"      
+        "Mamehinata"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3220,6 +3364,7 @@
     {
       "id": "森羅_Shinra",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3236,7 +3381,7 @@
       ],
       "productNames": [
         "森羅",
-        "Shinra"      
+        "Shinra"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3245,6 +3390,7 @@
     {
       "id": "ちまこぞく_Chimaco-Tribe",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3261,7 +3407,7 @@
       ],
       "productNames": [
         "ちまこぞく",
-        "Chimaco Tribe"      
+        "Chimaco Tribe"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3270,6 +3416,7 @@
     {
       "id": "鳴耶-Naruya",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3286,7 +3433,7 @@
       ],
       "productNames": [
         "鳴耶",
-        "Naruya"      
+        "Naruya"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3295,6 +3442,7 @@
     {
       "id": "ソフィナ-Sophina",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3311,7 +3459,7 @@
       ],
       "productNames": [
         "ソフィナ",
-        "Sophina"      
+        "Sophina"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3320,6 +3468,7 @@
     {
       "id": "ラシューシャ-Lasyusha",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3336,7 +3485,7 @@
       ],
       "productNames": [
         "ラシューシャ",
-        "Lasyusha"      
+        "Lasyusha"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3345,6 +3494,7 @@
     {
       "id": "マキナ-Makina",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3361,7 +3511,7 @@
       ],
       "productNames": [
         "マキナ",
-        "Makina"      
+        "Makina"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3370,6 +3520,7 @@
     {
       "id": "伊兎卯さん-Itousan",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3386,7 +3537,7 @@
       ],
       "productNames": [
         "伊兎卯",
-        "Itousan"            
+        "Itousan"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3395,6 +3546,7 @@
     {
       "id": "ライム-Lime",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3411,16 +3563,16 @@
       ],
       "productNames": [
         "ライム",
-        "Lime"            
+        "Lime"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1121883340555952260
-    }
-,
+    },
     {
       "id": "卯月-Uzuki",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3437,16 +3589,16 @@
       ],
       "productNames": [
         "卯月",
-        "Uzuki"            
+        "Uzuki"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1122688585787785246
-    } 
-    ,
+    },
     {
       "id": "ユメ-Yume",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3463,15 +3615,16 @@
       ],
       "productNames": [
         "ユメ",
-        "Yume"            
+        "Yume"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1128050083477344319
-    } ,
+    },
     {
       "id": "ルーシュカ-Rushka",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3488,15 +3641,16 @@
       ],
       "productNames": [
         "ルーシュカ",
-        "Rushka"            
+        "Rushka"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1128389463874228224
-    }  ,
+    },
     {
       "id": "ましゅめろ-Marshmero",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3513,15 +3667,16 @@
       ],
       "productNames": [
         "ましゅめろ",
-        "Marshmero"            
+        "Marshmero"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1129387425874059264
-    }  ,
+    },
     {
       "id": "デルタフレア-DELTAFLAIR",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3538,15 +3693,16 @@
       ],
       "productNames": [
         "デルタフレア",
-        "DELTAFLAIR"            
+        "DELTAFLAIR"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1129462611877056665
-    }   ,
+    },
     {
       "id": "ルセブル-Lzebul",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3563,15 +3719,16 @@
       ],
       "productNames": [
         "ルセブル",
-        "Lzebul"            
+        "Lzebul"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1130103849630322758
-    }    ,
+    },
     {
       "id": "ルナ-luna",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3582,7 +3739,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "lunaritt"       
+        "lunaritt"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -3590,7 +3747,7 @@
       ],
       "productNames": [
         "ルナ",
-        "Luna"            
+        "Luna"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3599,6 +3756,7 @@
     {
       "id": "トキ-Toki",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3609,7 +3767,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "マットキャップ"            
+        "マットキャップ"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -3617,15 +3775,16 @@
       ],
       "productNames": [
         "トキ",
-        "Toki"            
+        "Toki"
       ],
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1134840530321276969
-    } ,
+    },
     {
       "id": "フィオナ-fiona",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3642,7 +3801,7 @@
       ],
       "productNames": [
         "フィオナ",
-        "Fiona"            
+        "Fiona"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3651,6 +3810,7 @@
     {
       "id": "Linla",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3666,7 +3826,7 @@
         "3855451"
       ],
       "productNames": [
-        "Linla"            
+        "Linla"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3675,6 +3835,7 @@
     {
       "id": "Lapwing",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3690,7 +3851,7 @@
         "4993931"
       ],
       "productNames": [
-        "Lapwing"            
+        "Lapwing"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3699,6 +3860,7 @@
     {
       "id": "藍子さん-AIKOSAN",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3715,7 +3877,7 @@
       ],
       "productNames": [
         "藍子さん",
-        "AIKOSAN"            
+        "AIKOSAN"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3724,6 +3886,7 @@
     {
       "id": "東雲-Shinonome",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3737,7 +3900,7 @@
         "環奈",
         "和音",
         "Shinonome Noiz Feihon",
-        "monaka-shinonome"           
+        "monaka-shinonome"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -3745,7 +3908,7 @@
       ],
       "productNames": [
         "東雲",
-        "Shinonome"            
+        "Shinonome"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3754,6 +3917,7 @@
     {
       "id": "マヌカ-Manuka",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3770,7 +3934,7 @@
       ],
       "productNames": [
         "マヌカ",
-        "Manuka"            
+        "Manuka"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3779,6 +3943,7 @@
     {
       "id": "ヨール-Yawl",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3795,7 +3960,7 @@
       ],
       "productNames": [
         "ヨール",
-        "Yawl"            
+        "Yawl"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3804,6 +3969,7 @@
     {
       "id": "おまねこ-omaneko",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3820,7 +3986,7 @@
       ],
       "productNames": [
         "おまねこ",
-        "omaneko"            
+        "omaneko"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3829,6 +3995,7 @@
     {
       "id": "CONTAINER_yoyogi-mori",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3840,14 +4007,14 @@
       ],
       "excludeKeywords": [
         "sauce container",
-	"Shipping Container"      
+        "Shipping Container"
       ],
       "titleKeywords": [],
       "keywords": [
         "5157084"
       ],
       "productNames": [
-        "CONTAINER"            
+        "CONTAINER"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3856,6 +4023,7 @@
     {
       "id": "シャロ-Chalo",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3872,7 +4040,7 @@
       ],
       "productNames": [
         "シャロ",
-	"Chalo"
+        "Chalo"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3881,6 +4049,7 @@
     {
       "id": "イリス_iris_namekuji1337",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3891,15 +4060,15 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-	"3299594"
-	    ],
+        "3299594"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5209634"
       ],
       "productNames": [
         "イリス",
-	"iris"
+        "iris"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3908,6 +4077,7 @@
     {
       "id": "ヴェール-Velle",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3924,7 +4094,7 @@
       ],
       "productNames": [
         "ヴェール",
-	"Velle"
+        "Velle"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3933,6 +4103,7 @@
     {
       "id": "瑞希-mizuki",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3949,7 +4120,7 @@
       ],
       "productNames": [
         "瑞希",
-	"Mizuki"
+        "Mizuki"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3958,6 +4129,7 @@
     {
       "id": "珀杏-hakua",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3974,7 +4146,7 @@
       ],
       "productNames": [
         "珀杏",
-	"Hakua"
+        "Hakua"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -3983,6 +4155,7 @@
     {
       "id": "シフォン-chiffon",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3999,7 +4172,7 @@
       ],
       "productNames": [
         "シフォン",
-	"chiffon"
+        "chiffon"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -4008,6 +4181,7 @@
     {
       "id": "NH-01-",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4024,7 +4198,7 @@
       ],
       "productNames": [
         "NH-01",
-	"NH-02"
+        "NH-02"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -4033,6 +4207,7 @@
     {
       "id": "pon_and_chune",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4043,7 +4218,7 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-	      "epona"
+        "epona"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -4052,7 +4227,7 @@
       "productNames": [
         "ぽんとちゅね",
         "pon and chune",
-	"pon",      
+        "pon",
         "chune"
       ],
       "minPrice": 0,
@@ -4062,6 +4237,7 @@
     {
       "id": "Nagiya_Ruri",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4078,7 +4254,7 @@
       ],
       "productNames": [
         "凪夜 瑠璃",
-	"Nagiya Ruri"
+        "Nagiya Ruri"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -4087,6 +4263,7 @@
     {
       "id": "Saria",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4103,7 +4280,7 @@
       ],
       "productNames": [
         "サリア",
-	"Saria"
+        "Saria"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -4112,6 +4289,7 @@
     {
       "id": "NORANEKOSEVEN",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4128,8 +4306,8 @@
       ],
       "productNames": [
         "NORANEKOSEVEN",
-	"ノラネコセヴン",
-	"ノラネコセブン"
+        "ノラネコセヴン",
+        "ノラネコセブン"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -4138,6 +4316,7 @@
     {
       "id": "Haru",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4154,7 +4333,7 @@
       ],
       "productNames": [
         "はる",
-	"Haru"
+        "Haru"
       ],
       "minPrice": 0,
       "minLike": 10,
@@ -4163,6 +4342,7 @@
     {
       "id": "Glanz",
       "sql": "",
+      "botId": "booth-bot-1",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
