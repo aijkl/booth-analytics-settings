@@ -122,8 +122,18 @@
       "footerText": {
           "type": "string"
       },
-      "gameStatusText": {
-          "type": "string"
+      "gameStatues": {
+                  "type": "array",
+                  "items1": {
+                      "type": [
+                          "string"
+                ]
+      },
+                  "items2": {
+                      "type": [
+                          "string"
+                      ]
+                  }
       },
       "notifiedDataKeepDays": {
           "type": "integer"
@@ -152,5 +162,5 @@
           }
       }
   },
-  "required" : ["keyword", "fetchIntervalMilliSeconds", "updateIntervalMilliSeconds", "modifyIntervalMilliSeconds", "saleCheckIntervalMilliSeconds", "guildId", "exceptionChannelId", "reminderModifyDays", "modifyStartPage", "modifyEndPage", "notifyStartPage", "notifyEndPage", "footerText", "gameStatusText", "notifiedDataKeepDays", "relevanceEvaluationKeywords", "adultWarningImageUrl", "blockRules", "channelRules"]
+  "required" : ["keyword", "fetchIntervalMilliSeconds", "updateIntervalMilliSeconds", "modifyIntervalMilliSeconds", "saleCheckIntervalMilliSeconds", "guildId", "exceptionChannelId", "reminderModifyDays", "modifyStartPage", "modifyEndPage", "notifyStartPage", "notifyEndPage", "footerText", "gameStatues", "notifiedDataKeepDays", "relevanceEvaluationKeywords", "adultWarningImageUrl", "blockRules", "channelRules"]
 }
