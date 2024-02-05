@@ -123,7 +123,17 @@
           "type": "string"
       },
       "gameStatues": {
-          "type": "string"
+                  "type": "array",
+                  "items1": {
+                      "type": [
+                          "string"
+                ]
+      },
+                  "items2": {
+                      "type": [
+                          "string"
+                      ]
+                  }
       },
       "notifiedDataKeepDays": {
           "type": "integer"
