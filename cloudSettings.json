@@ -4393,6 +4393,32 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1202333405845671977
+    },
+    {
+      "id": "Horiz",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装・装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "3605652"
+      ],
+      "productNames": [
+        "ホライズ",
+        "Horiz"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1205689432624078878
     }
   ]
 }
