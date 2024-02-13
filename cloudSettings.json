@@ -876,7 +876,7 @@
     {
       "id": "こまど_Komado",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -908,7 +908,7 @@
     {
       "id": "まるぼでぃ_MARUBODY",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -937,7 +937,7 @@
     {
       "id": "lsbody",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -963,7 +963,7 @@
     {
       "id": "幽狐",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -989,7 +989,7 @@
     {
       "id": "狐雪",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1015,7 +1015,7 @@
     {
       "id": "ミーシェ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1041,7 +1041,7 @@
     {
       "id": "京狐",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1067,7 +1067,7 @@
     {
       "id": "スノウエルフ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1093,7 +1093,7 @@
     {
       "id": "メリノ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1119,7 +1119,7 @@
     {
       "id": "リーメリーバ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1146,7 +1146,7 @@
     {
       "id": "Noy",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1171,7 +1171,7 @@
     {
       "id": "薄荷",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1197,7 +1197,7 @@
     {
       "id": "CyberCat",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1223,7 +1223,7 @@
     {
       "id": "Lua",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1248,7 +1248,7 @@
     {
       "id": "ウルフェリア",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1274,7 +1274,7 @@
     {
       "id": "みみの",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1300,7 +1300,7 @@
     {
       "id": "ここあ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1326,7 +1326,7 @@
     {
       "id": "ラスク",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1352,7 +1352,7 @@
     {
       "id": "ファジー",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1377,7 +1377,7 @@
     {
       "id": "ルシナ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1403,7 +1403,7 @@
     {
       "id": "キッシュ",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -1430,7 +1430,7 @@
     {
       "id": "リアアリス",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
