@@ -1,7 +1,7 @@
 ## booth-analytics-public
-Booth通知サーバーの設定ファイル用リポジトリです。 <br> 
+Booth新着アイテム通知discordサーバー (https://discord.gg/userwrHKqq) の設定ファイル用リポジトリです。 <br> 
 利用者の方でも設定ファイルを変更する事ができます。<br>
-**cloudSettings.jsonを編集してください。<br>https://github.com/aijkl/booth-analytics-settings/blob/main/cloudSettings.json**<br>
+**[cloudSettings.json](cloudSettings.json)を編集してPull Requestを申請してください。**<br>
 | Key | Description |
 ----|---- 
 | <p align="center"> id </p> | <p align="center">　一意なID。通常アバター名を英字で記載します。 </p> |
