@@ -238,7 +238,7 @@
     {
       "id": "ツール",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -260,7 +260,7 @@
     {
       "id": "Props",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -277,7 +277,7 @@
     {
       "id": "udon",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -328,7 +328,7 @@
     {
       "id": "World",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -345,7 +345,7 @@
     {
       "id": "OSC",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -565,7 +565,7 @@
     {
       "id": "Vroid",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -582,7 +582,7 @@
     {
       "id": "Quest対応アバター",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -601,7 +601,7 @@
     {
       "id": "Quest衣装小道具",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -625,7 +625,7 @@
     {
       "id": "髪型",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -653,7 +653,7 @@
     {
       "id": "尻尾-Tail",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -678,7 +678,7 @@
     {
       "id": "耳-Ear",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -703,7 +703,7 @@
     {
       "id": "目-eye",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -729,7 +729,7 @@
     {
       "id": "アクセサリー",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -754,7 +754,7 @@
     {
       "id": "poiyomi",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -778,7 +778,7 @@
     {
       "id": "liltoon",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -803,7 +803,7 @@
     {
       "id": "unity-chan_toon_shader",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -829,7 +829,7 @@
     {
       "id": "unlit_wf",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -854,7 +854,7 @@
     {
       "id": "silent_cel_shader",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
@@ -881,7 +881,7 @@
     {
       "id": "noriben",
       "sql": "",
-      "botId": "booth-bot-1",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [
