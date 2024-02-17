@@ -235,135 +235,7 @@
       "minLike": 0,
       "channelId": 876095790882373632
     },
-    {
-      "id": "ツール",
-      "sql": "",
-      "botId": "booth-bot-2",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "ツール",
-        "Tool"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863693612919291904
-    },
-    {
-      "id": "Props",
-      "sql": "",
-      "botId": "booth-bot-2",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D小道具"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 30,
-      "channelId": 889777895529140245
-    },
-    {
-      "id": "udon",
-      "sql": "",
-      "botId": "booth-bot-2",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "ツール",
-        "Tool",
-        "3D小道具",
-        "3Dテクスチャ",
-        "3Dツール・システム",
-        "3Dモーション・アニメーション",
-        "3D環境・ワールド",
-        "3Dキャラクター",
-        "VRoid",
-        "3D衣装",
-        "3D装飾品",
-        "3Dモデル（その他）",
-        "ゲーム関連商品",
-        "素材（その他）",
-        "アクセサリー（その他）",
-        "音楽（その他）",
-        "音楽一般",
-        "BGM素材",
-        "アニメーション",
-        "時計",
-        "ポスター",
-        "技術書",
-        "PCゲーム"
-      ],
-      "excludeKeywords": [
-        "うどん猫",
-        "販売ワールド",
-        "アバター",
-        "Yudono",
-        "vroid"
-      ],
-      "titleKeywords": [],
-      "keywords": [
-        "Udonsharp",
-        "Udon"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 863685622854189056
-    },
-    {
-      "id": "World",
-      "sql": "",
-      "botId": "booth-bot-2",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "3D環境・ワールド"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 20,
-      "channelId": 889778736038309938
-    },
-    {
-      "id": "OSC",
-      "sql": "",
-      "botId": "booth-bot-2",
-      "useAvatarRelevanceEvaluation": false,
-      "useModifyService": true,
-      "categories": [
-        "ソフトウェア",
-        "ゲーム関連商品",
-        "素材（その他）"
-      ],
-      "excludeKeywords": [],
-      "titleKeywords": [],
-      "keywords": [
-        "OSC"
-      ],
-      "productNames": [],
-      "minPrice": 0,
-      "minLike": 0,
-      "channelId": 950927498093420564
-    },
-    {
+     {
       "id": "like50",
       "sql": "",
       "botId": "booth-bot-1",
@@ -561,6 +433,134 @@
       "minPrice": 0,
       "minLike": 0,
       "channelId": 1082091796668088391
+    },
+    {
+      "id": "ツール",
+      "sql": "",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "ツール",
+        "Tool"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863693612919291904
+    },
+    {
+      "id": "Props",
+      "sql": "",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D小道具"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 30,
+      "channelId": 889777895529140245
+    },
+    {
+      "id": "udon",
+      "sql": "",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "ツール",
+        "Tool",
+        "3D小道具",
+        "3Dテクスチャ",
+        "3Dツール・システム",
+        "3Dモーション・アニメーション",
+        "3D環境・ワールド",
+        "3Dキャラクター",
+        "VRoid",
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）",
+        "音楽（その他）",
+        "音楽一般",
+        "BGM素材",
+        "アニメーション",
+        "時計",
+        "ポスター",
+        "技術書",
+        "PCゲーム"
+      ],
+      "excludeKeywords": [
+        "うどん猫",
+        "販売ワールド",
+        "アバター",
+        "Yudono",
+        "vroid"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "Udonsharp",
+        "Udon"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 863685622854189056
+    },
+    {
+      "id": "World",
+      "sql": "",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "3D環境・ワールド"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 20,
+      "channelId": 889778736038309938
+    },
+    {
+      "id": "OSC",
+      "sql": "",
+      "botId": "booth-bot-2",
+      "useAvatarRelevanceEvaluation": false,
+      "useModifyService": true,
+      "categories": [
+        "ソフトウェア",
+        "ゲーム関連商品",
+        "素材（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "OSC"
+      ],
+      "productNames": [],
+      "minPrice": 0,
+      "minLike": 0,
+      "channelId": 950927498093420564
     },
     {
       "id": "Vroid",
