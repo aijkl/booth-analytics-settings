@@ -1,8 +1,8 @@
 {
   "keyword": "VRChat",
-  "fetchIntervalMilliSeconds": 8000,
+  "fetchIntervalMilliSeconds": 6500,
   "updateIntervalMilliSeconds": 5400000,
-  "modifyIntervalMilliSeconds": 8000,
+  "modifyIntervalMilliSeconds": 6500,
   "notifyIntervalMilliSeconds": 20000,
   "saleCheckIntervalMilliSeconds": 86400000,
   "guildId": 858188499270369322,
