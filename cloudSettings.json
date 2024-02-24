@@ -1,8 +1,8 @@
 {
   "keyword": "VRChat",
-  "fetchIntervalMilliSeconds": 8000,
+  "fetchIntervalMilliSeconds": 6500,
   "updateIntervalMilliSeconds": 5400000,
-  "modifyIntervalMilliSeconds": 8000,
+  "modifyIntervalMilliSeconds": 6500,
   "notifyIntervalMilliSeconds": 20000,
   "saleCheckIntervalMilliSeconds": 86400000,
   "guildId": 858188499270369322,
@@ -4584,6 +4584,33 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1205689432624078878
+    },
+    {
+      "id": "LILIMOCA",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "5506125"
+      ],
+      "productNames": [
+        "リリモカ",
+        "LILIMOCA"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1210949439112347768
     }
   ]
 }
