@@ -4639,6 +4639,33 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1210949439112347768
+    },
+    {
+      "id": "クララ-Clara",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [],
+      "titleKeywords": [],
+      "keywords": [
+        "5484178"
+      ],
+      "productNames": [
+        "クララ",
+        "Clara"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1216843208794050641
     }
   ]
 }
