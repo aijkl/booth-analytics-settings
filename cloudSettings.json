@@ -565,8 +565,8 @@
         "販売ワールド",
         "アバター",
         "Yudono",
-        "vroid"
-        "RVC",
+        "vroid",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -2468,8 +2468,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "5209634"
-        "RVC",
+        "5209634",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -2503,8 +2503,8 @@
       ],
       "excludeKeywords": [
         "コユキ",
-        "Koyuki"
-        "RVC",
+        "Koyuki",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -3197,8 +3197,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "Lucifer"
-        "RVC",
+        "Lucifer",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -3366,8 +3366,8 @@
       ],
       "excludeKeywords": [
         "ましゅめろ",
-        "Marshmero"
-        "RVC",
+        "Marshmero",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -3598,8 +3598,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "@KAYA_Vchat"
-        "RVC",
+        "@KAYA_Vchat",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -4719,8 +4719,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "lunaritt"
-        "RVC",
+        "lunaritt",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -4753,8 +4753,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "マットキャップ"
-        "RVC",
+        "マットキャップ",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -4920,8 +4920,8 @@
         "環奈",
         "和音",
         "Shinonome Noiz Feihon",
-        "monaka-shinonome"
-        "RVC",
+        "monaka-shinonome",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -5054,8 +5054,8 @@
       ],
       "excludeKeywords": [
         "sauce container",
-        "Shipping Container"
-        "RVC",
+        "Shipping Container",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -5120,8 +5120,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "3299594"
-        "RVC",
+        "3299594",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -5319,8 +5319,8 @@
         "アクセサリー（その他）"
       ],
       "excludeKeywords": [
-        "epona"
-        "RVC",
+        "epona",
+"RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -5640,3 +5640,4 @@
     }
   ]
 }
+
