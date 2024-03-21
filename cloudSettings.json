@@ -98,7 +98,13 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "Splatter",
@@ -269,7 +275,13 @@
         "技術書",
         "PCゲーム"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -311,7 +323,13 @@
         "技術書",
         "PCゲーム"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -326,7 +344,13 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -341,7 +365,13 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -358,7 +388,13 @@
       "categories": [
         "3Dキャラクター"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -375,7 +411,13 @@
       "categories": [
         "3Dキャラクター"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -392,7 +434,13 @@
       "categories": [
         "3Dキャラクター"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -445,7 +493,13 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "ツール",
@@ -465,7 +519,13 @@
       "categories": [
         "3D小道具"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -533,7 +593,13 @@
       "categories": [
         "3D環境・ワールド"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -552,7 +618,13 @@
         "ゲーム関連商品",
         "素材（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "OSC"
@@ -571,7 +643,13 @@
       "categories": [
         "VRoid"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -588,7 +666,13 @@
       "categories": [
         "3Dキャラクター"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "Quest"
@@ -612,7 +696,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "Quest"
@@ -636,7 +726,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [
         "髪型",
         "ヘア",
@@ -664,7 +760,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [
         "尻尾",
         "Tail"
@@ -689,7 +791,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [
         "耳",
         "Ear"
@@ -714,7 +822,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [
         "目",
         "アイテクスチャ",
@@ -740,7 +854,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "アクセサリー",
@@ -765,7 +885,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "poiyomi"
@@ -789,7 +915,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "liltoon",
@@ -814,7 +946,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "uts",
@@ -840,7 +978,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "unlit_wf",
@@ -865,7 +1009,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1894974",
@@ -892,7 +1042,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "noriben"
@@ -916,7 +1072,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2559783",
@@ -950,7 +1112,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4376366",
@@ -980,7 +1148,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2018942"
@@ -1007,7 +1181,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1484117"
@@ -1034,7 +1214,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2554585"
@@ -1061,7 +1247,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1256087"
@@ -1088,7 +1280,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1826902"
@@ -1115,7 +1313,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1202638"
@@ -1142,7 +1346,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2351859"
@@ -1169,7 +1379,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "972559"
@@ -1197,7 +1413,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1572406"
@@ -1223,7 +1445,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2215270"
@@ -1250,7 +1478,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1333754"
@@ -1277,7 +1511,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1255054"
@@ -1303,7 +1543,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2709610"
@@ -1330,7 +1576,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1336133"
@@ -1357,7 +1609,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2780069"
@@ -1384,7 +1642,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2559783"
@@ -1411,7 +1675,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1255283"
@@ -1437,7 +1707,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2721156"
@@ -1465,7 +1741,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "954376"
@@ -1492,7 +1774,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2146588"
@@ -1519,7 +1807,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2630437"
@@ -1545,7 +1839,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [
         "しいか",
         "Shika"
@@ -1572,7 +1872,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3016885"
@@ -1599,7 +1905,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3123433"
@@ -1626,7 +1938,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2910697"
@@ -1653,7 +1971,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3153754"
@@ -1679,7 +2003,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2495796"
@@ -1706,7 +2036,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3046011"
@@ -1733,7 +2069,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3203894"
@@ -1760,7 +2102,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1948102"
@@ -1786,7 +2134,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3224415"
@@ -1813,7 +2167,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3040745"
@@ -1840,7 +2200,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1216498",
@@ -1871,7 +2237,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2953001"
@@ -1898,7 +2270,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1577042"
@@ -1926,7 +2304,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2616595"
@@ -1954,7 +2338,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2381911"
@@ -1982,7 +2372,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1255264"
@@ -2009,7 +2405,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2417889"
@@ -2035,7 +2437,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3190100"
@@ -2120,7 +2528,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3162874"
@@ -2147,7 +2561,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3234473"
@@ -2174,7 +2594,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3329958"
@@ -2202,7 +2628,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3390957"
@@ -2229,7 +2661,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3390339"
@@ -2256,7 +2694,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3443188"
@@ -2283,7 +2727,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3450381"
@@ -2310,7 +2760,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3453992"
@@ -2336,7 +2792,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3504943"
@@ -2363,7 +2825,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3470989"
@@ -2390,7 +2858,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2953391"
@@ -2417,7 +2891,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1411609"
@@ -2444,7 +2924,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2258111"
@@ -2471,7 +2957,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3604487"
@@ -2498,7 +2990,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3659436"
@@ -2525,7 +3023,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3441511"
@@ -2549,7 +3053,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3550881"
@@ -2576,7 +3086,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3564947"
@@ -2603,7 +3119,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2754160",
@@ -2633,7 +3155,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3681787"
@@ -2689,7 +3217,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2841015"
@@ -2716,7 +3250,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2175302"
@@ -2743,7 +3283,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3472207"
@@ -2771,7 +3317,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2351349"
@@ -2829,7 +3381,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3368697"
@@ -2856,7 +3414,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3067603"
@@ -2883,7 +3447,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4005540"
@@ -2910,7 +3480,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3302156"
@@ -2937,7 +3513,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4035411"
@@ -2964,7 +3546,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4049292"
@@ -3020,7 +3608,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4063740"
@@ -3047,7 +3641,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4118550"
@@ -3074,7 +3674,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3939858"
@@ -3101,7 +3707,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4067678"
@@ -3128,7 +3740,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4193460"
@@ -3154,7 +3772,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4208278"
@@ -3181,7 +3805,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4252855"
@@ -3208,7 +3838,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3923094"
@@ -3235,7 +3871,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3687430"
@@ -3261,7 +3903,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4578343"
@@ -3288,7 +3936,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4376366"
@@ -3315,7 +3969,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4398963"
@@ -3342,7 +4002,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4358123"
@@ -3369,7 +4035,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4390073"
@@ -3396,7 +4068,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4655445"
@@ -3423,7 +4101,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4636024"
@@ -3450,7 +4134,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4667400"
@@ -3477,7 +4167,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4670579"
@@ -3504,7 +4200,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4340548"
@@ -3531,7 +4233,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4707634"
@@ -3558,7 +4266,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4733077"
@@ -3585,7 +4299,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2328361"
@@ -3612,7 +4332,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4044305"
@@ -3639,7 +4365,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4825073"
@@ -3666,7 +4398,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4751941"
@@ -3693,7 +4431,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4841951"
@@ -3720,7 +4464,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4876459"
@@ -3747,7 +4497,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4877495"
@@ -3774,7 +4530,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "1264514"
@@ -3801,7 +4563,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4296675"
@@ -3828,7 +4596,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4910503"
@@ -3855,7 +4629,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4906631"
@@ -3882,7 +4662,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4887691"
@@ -3967,7 +4753,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4592568"
@@ -3994,7 +4786,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3855451"
@@ -4020,7 +4818,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4993931"
@@ -4046,7 +4850,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4925619"
@@ -4105,7 +4915,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5058077"
@@ -4132,7 +4948,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3161633"
@@ -4159,7 +4981,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4955312"
@@ -4215,7 +5043,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5201759"
@@ -4271,7 +5105,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4951792"
@@ -4298,7 +5138,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5132797"
@@ -4325,7 +5171,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5235946"
@@ -4352,7 +5204,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5354471"
@@ -4379,7 +5237,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5314574"
@@ -4437,7 +5301,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5351494"
@@ -4464,7 +5334,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5349700"
@@ -4491,7 +5367,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2555967"
@@ -4519,7 +5401,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "4668352"
@@ -4546,7 +5434,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "2693309"
@@ -4573,7 +5467,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "3605652"
@@ -4600,7 +5500,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5506125"
@@ -4627,7 +5533,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5496642"
@@ -4654,7 +5566,13 @@
         "素材（その他）",
         "アクセサリー（その他）"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "5484178"
