@@ -98,13 +98,7 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [
-        "RVC",
-        "TTS",
-        "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [
         "Splatter",
@@ -134,12 +128,7 @@
         "N式ちんちん",
         "TINPO",
         "CHINPO",
-        "TKB",
-        "RVC",
-        "TTS",
-        "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
+        "TKB"
       ],
       "productNames": [],
       "minPrice": 0,
@@ -168,9 +157,7 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [
-        "Vroid"
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
