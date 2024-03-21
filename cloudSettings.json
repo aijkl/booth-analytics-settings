@@ -214,7 +214,13 @@
         "技術書",
         "PCゲーム"
       ],
-      "excludeKeywords": [],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
+      ],
       "titleKeywords": [],
       "keywords": [
         "LimitedTime",
@@ -560,6 +566,11 @@
         "アバター",
         "Yudono",
         "vroid"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -2458,6 +2469,11 @@
       ],
       "excludeKeywords": [
         "5209634"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -2488,6 +2504,11 @@
       "excludeKeywords": [
         "コユキ",
         "Koyuki"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -3177,6 +3198,11 @@
       ],
       "excludeKeywords": [
         "Lucifer"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -3341,6 +3367,11 @@
       "excludeKeywords": [
         "ましゅめろ",
         "Marshmero"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -3568,6 +3599,11 @@
       ],
       "excludeKeywords": [
         "@KAYA_Vchat"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -4684,6 +4720,11 @@
       ],
       "excludeKeywords": [
         "lunaritt"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -4713,6 +4754,11 @@
       ],
       "excludeKeywords": [
         "マットキャップ"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -4875,6 +4921,11 @@
         "和音",
         "Shinonome Noiz Feihon",
         "monaka-shinonome"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -5004,6 +5055,11 @@
       "excludeKeywords": [
         "sauce container",
         "Shipping Container"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -5065,6 +5121,11 @@
       ],
       "excludeKeywords": [
         "3299594"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -5259,6 +5320,11 @@
       ],
       "excludeKeywords": [
         "epona"
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル"
       ],
       "titleKeywords": [],
       "keywords": [
