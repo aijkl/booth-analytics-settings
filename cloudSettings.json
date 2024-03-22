@@ -132,8 +132,7 @@
         "RVC",
         "TTS",
         "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
+        "アクリルキーホルダー"        
       ],
       "productNames": [],
       "minPrice": 0,
@@ -277,8 +276,7 @@
         "RVC",
         "TTS",
         "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
+        "アクリルキーホルダー"        
       ],
       "titleKeywords": [],
       "keywords": [],
@@ -325,8 +323,7 @@
         "RVC",
         "TTS",
         "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
+        "アクリルキーホルダー"
       ],
       "titleKeywords": [],
       "keywords": [],
@@ -342,13 +339,7 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [
-        "RVC",
-        "TTS",
-        "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -363,13 +354,7 @@
       "useAvatarRelevanceEvaluation": false,
       "useModifyService": true,
       "categories": [],
-      "excludeKeywords": [
-        "RVC",
-        "TTS",
-        "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
-      ],
+      "excludeKeywords": [],
       "titleKeywords": [],
       "keywords": [],
       "productNames": [],
@@ -571,7 +556,7 @@
         "アバター",
         "Yudono",
         "vroid",
-"RVC",
+        "RVC",
         "TTS",
         "ボイス",
         "アクリルキーホルダー",
@@ -650,8 +635,7 @@
         "RVC",
         "TTS",
         "ボイス",
-        "アクリルキーホルダー",
-        "ネイル"
+        "アクリルキーホルダー"
       ],
       "titleKeywords": [],
       "keywords": [],
