@@ -7,6 +7,33 @@ import os
 file_path = os.getenv("file_path")
 
 
+
+
+def detect_duplicate_ids(file_path):
+    with open(file_path, "r") as file:
+        data = json.load(file)
+
+    ids = set()
+    duplicate_ids = set()
+
+    #channelRules配下のidを取得
+    channel_rules = data.get("channelRules", [])
+    for rule in channel_rules:
+        id = rule.get("id")
+        if id in ids:
+          duplicate_ids.add(id)
+        else:
+          ids.add(id)
+
+    if duplicate_ids:
+        print("重複しているidがあります:", duplicate_ids)
+        raise ValueError("重複しているidがあります")
+    else:
+        print("重複しているidはありません")
+
+detect_duplicate_ids(file_path)
+
+
 def detect_duplicate_channel_ids(file_path):
     with open(file_path, "r") as file:
         data = json.load(file)
@@ -34,27 +61,3 @@ def detect_duplicate_channel_ids(file_path):
 detect_duplicate_channel_ids(file_path)
 
 
-
-def detect_duplicate_ids(file_path):
-    with open(file_path, "r") as file:
-        data = json.load(file)
-
-    ids = set()
-    duplicate_ids = set()
-
-    #channelRules配下のidを取得
-    channel_rules = data.get("channelRules", [])
-    for rule in channel_rules:
-        id = rule.get("id")
-        if id in ids:
-          duplicate_ids.add(id)
-        else:
-          ids.add(id)
-
-    if duplicate_ids:
-        print("重複しているidがあります:", duplicate_ids)
-        raise ValueError("重複しているidがあります")
-    else:
-        print("重複しているidはありません")
-
-detect_duplicate_ids(file_path)
