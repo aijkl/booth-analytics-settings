@@ -1,4 +1,4 @@
-name: Check JSON for duplicate key
+name: Check json
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  numpy-test:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
