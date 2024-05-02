@@ -1,4 +1,4 @@
-name: Check JSON for duplicate key
+name: Check json
 
 on:
   push:
