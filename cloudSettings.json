@@ -6054,6 +6054,40 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1250040929264603249
+    },
+    {
+      "id": "Nanase_Noir",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "5827815"
+      ],
+      "productNames": [
+        "ナナセ・ノワール",
+        "Nanase Noir"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1250903016240975873
     }
   ]
 }
