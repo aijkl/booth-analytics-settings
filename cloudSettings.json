@@ -3772,7 +3772,7 @@
     {
       "id": "ぞめ-Zome",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3806,7 +3806,7 @@
     {
       "id": "サフィーSapphy",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3840,7 +3840,7 @@
     {
       "id": "エポナ-Epona",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3874,7 +3874,7 @@
     {
       "id": "TubeRose",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3907,7 +3907,7 @@
     {
       "id": "ソラハ-Soraha",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3941,7 +3941,7 @@
     {
       "id": "御咲ライネ-Raine",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -3975,7 +3975,7 @@
     {
       "id": "ヨル-Yoll",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4009,7 +4009,7 @@
     {
       "id": "リア",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4042,7 +4042,7 @@
     {
       "id": "ホノカ-Honoka",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
