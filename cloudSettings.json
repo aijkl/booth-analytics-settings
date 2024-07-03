@@ -16,15 +16,15 @@
   "gameStatues": [
     {
       "botId": "booth-bot-1",
-      "gameStatus": "Counter-Booth1"
+      "gameStatus": "VRChat"
     },
     {
       "botId": "booth-bot-2",
-      "gameStatus": "BOOTH RING2"
+      "gameStatus": "Cluster"
     },
     {
       "botId": "booth-bot-3",
-      "gameStatus": "Banana Repblic3"
+      "gameStatus": "ChilloutVR"
     }
   ],
   "notifiedDataKeepDays": 7,
