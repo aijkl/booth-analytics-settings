@@ -16,15 +16,15 @@
   "gameStatues": [
     {
       "botId": "booth-bot-1",
-      "gameStatus": "Booth1をテスト中"
+      "gameStatus": "Counter-Booth1"
     },
     {
       "botId": "booth-bot-2",
-      "gameStatus": "Booth2をテスト中"
+      "gameStatus": "BOOTH RING2"
     },
     {
       "botId": "booth-bot-3",
-      "gameStatus": "Booth3をテスト中"
+      "gameStatus": "Banana Repblic3"
     }
   ],
   "notifiedDataKeepDays": 7,
