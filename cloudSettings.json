@@ -6259,6 +6259,40 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1259713459717799966
+    },
+    {
+      "id": "みなみ_minami",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "5921301"
+      ],
+      "productNames": [
+        "みなみ",
+        "minami"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1267177826361147424
     }
   ]
 }
