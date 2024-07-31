@@ -2967,7 +2967,9 @@
         "ボイス",
         "アクリルキーホルダー",
         "ネイル",
-        "Nail"
+        "Nail",
+        "みるくらて",
+        "milklatte"
       ],
       "titleKeywords": [],
       "keywords": [
@@ -6293,6 +6295,42 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1267177826361147424
+    },
+    {
+      "id": "みるくらて_しゅがーらて_milklatte_sugarlatte",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "5822611"
+      ],
+      "productNames": [
+        "みるくらて",
+        "milklatte",
+        "しゅがーらて",
+        "sugarlatte"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1268270796548214876
     }
   ]
 }
