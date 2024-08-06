@@ -6331,6 +6331,40 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1268270796548214876
+    },
+    {
+      "id": "ルルネ_Rurune",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "5957830"
+      ],
+      "productNames": [
+        "ルルネ",
+        "Rurune"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1270376869946069083
     }
   ]
 }
