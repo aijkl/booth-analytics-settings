@@ -6365,6 +6365,43 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1270376869946069083
+    },
+    {
+      "id": "大神ララン-ohkami_laran",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "5931278"
+      ],
+      "productNames": [
+        "大神ララン",
+        "大神",
+        "ララン",
+        "Ohkami",
+        "Laran"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1271474895850573974
     }
   ]
 }
