@@ -59,6 +59,9 @@
     },
     {
       "shopId": "masimasikun"
+    },
+    {
+      "shopId": "naverius"
     }
   ],
   "adultWords": [
@@ -6522,6 +6525,40 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1282789621226278933
+    },
+    {
+      "id": "ぽまえ_Pomae",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "6054752"
+      ],
+      "productNames": [
+        "ぽまえ",
+        "pomae"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1284275094209691789
     }
   ]
 }
