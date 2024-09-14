@@ -4238,7 +4238,7 @@
     {
       "id": "ラムダ_Lambda",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
