@@ -4306,7 +4306,7 @@
     {
       "id": "萌_moe",
       "sql": "",
-      "botId": "booth-bot-2,
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
