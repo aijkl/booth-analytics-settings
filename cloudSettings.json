@@ -4102,7 +4102,7 @@
     {
       "id": "ネミア_Nenmir",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4136,7 +4136,7 @@
     {
       "id": "イェーナ_Yena",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4170,7 +4170,7 @@
     {
       "id": "ルキフェル_Lucifer",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4204,7 +4204,7 @@
     {
       "id": "リセ_Lise",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4272,7 +4272,7 @@
     {
       "id": "むろむ_muromu",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4306,7 +4306,7 @@
     {
       "id": "萌_moe",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4340,7 +4340,7 @@
     {
       "id": "ルフィナ_Rufina",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4374,7 +4374,7 @@
     {
       "id": "まめひなた_Mamehinata",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4408,7 +4408,7 @@
     {
       "id": "森羅_Shinra",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4442,7 +4442,7 @@
     {
       "id": "ちまこぞく_Chimaco-Tribe",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4476,7 +4476,7 @@
     {
       "id": "鳴耶-Naruya",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4510,7 +4510,7 @@
     {
       "id": "ソフィナ-Sophina",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
@@ -4544,7 +4544,7 @@
     {
       "id": "ラシューシャ-Lasyusha",
       "sql": "",
-      "botId": "booth-bot-3",
+      "botId": "booth-bot-2",
       "useAvatarRelevanceEvaluation": true,
       "useModifyService": true,
       "categories": [
