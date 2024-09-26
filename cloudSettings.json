@@ -6596,6 +6596,40 @@
       "minPrice": 0,
       "minLike": 10,
       "channelId": 1286649227065298955
+    },
+    {
+      "id": "スペルバ_Spielber",
+      "sql": "",
+      "botId": "booth-bot-3",
+      "useAvatarRelevanceEvaluation": true,
+      "useModifyService": true,
+      "categories": [
+        "3D衣装",
+        "3D装飾品",
+        "3Dモデル（その他）",
+        "ゲーム関連商品",
+        "素材（その他）",
+        "アクセサリー（その他）"
+      ],
+      "excludeKeywords": [
+        "RVC",
+        "TTS",
+        "ボイス",
+        "アクリルキーホルダー",
+        "ネイル",
+        "Nail"
+      ],
+      "titleKeywords": [],
+      "keywords": [
+        "6119302"
+      ],
+      "productNames": [
+        "スペルバ",
+        "Spielber"
+      ],
+      "minPrice": 0,
+      "minLike": 10,
+      "channelId": 1288985769733787650
     }
   ]
 }
