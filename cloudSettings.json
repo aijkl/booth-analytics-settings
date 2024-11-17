@@ -68,6 +68,12 @@
     },
     {
       "shopId": "voicervc"
+    },
+    {
+      "shopId": "roomton"
+    },
+    {
+      "shopId": "ferogma"
     }
   ],
   "adultWords": [
