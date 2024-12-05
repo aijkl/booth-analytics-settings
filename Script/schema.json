@@ -155,7 +155,6 @@
       "blockRules": {
             "type": "object",
             "$ref": "#/definitions/BlockRule"
-        }
       },
       "channelRules": {
           "type": "array",
