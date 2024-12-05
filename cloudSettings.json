@@ -32,23 +32,22 @@
     "専用"
   ],
   "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-settings/main/Images/adult_warning.png",
-    "blockRules": [
-    {
-      "shopId": [ 
-        "saisai",
-        "paletteproject",
-        "iktk",
-        "rvcgirl",
-        "fredrica",
-        "rvc-kishida",
-        "minami-sakura",
-        "naturalvoice",
-        "masimasikun",
-        "naverius",
-        "astra-RVC",
-        "voicervc",
-        "roomton",
-        "ferogma"
+    "blockRules": {
+        "shopId": [ 
+            "saisai",
+            "paletteproject",
+            "iktk",
+            "rvcgirl",
+            "fredrica",
+            "rvc-kishida",
+            "minami-sakura",
+            "naturalvoice",
+            "masimasikun",
+            "naverius",
+            "astra-RVC",
+            "voicervc",
+            "roomton",
+            "ferogma"
       ]
     }
   ],
