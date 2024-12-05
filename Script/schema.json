@@ -6,7 +6,7 @@
           ],
           "properties": {
               "shopId": {
-                  "type": "string"
+                  "type": ["string"]
               }
           },
           "required": ["shopId"]
