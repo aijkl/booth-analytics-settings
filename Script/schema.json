@@ -153,10 +153,9 @@
           "type": "string"
       },
       "blockRules": {
-          "type": "array",
-          "items": {
-              "$ref": "#/definitions/BlockRule"
-          }
+            "type": "object",
+            "$ref": "#/definitions/BlockRule"
+        }
       },
       "channelRules": {
           "type": "array",
