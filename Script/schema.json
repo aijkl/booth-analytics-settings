@@ -1,13 +1,16 @@
 {
   "definitions": {
       "BlockRule": {
-          "type": [
-              "object"
-          ],
+          "type": ["object"],
           "properties": {
               "shopId": {             
-                  "type": "string"
-          }
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
+              }
           },
           "required": ["shopId"]
       },
