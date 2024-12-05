@@ -32,50 +32,24 @@
     "専用"
   ],
   "adultWarningImageUrl": "https://raw.githubusercontent.com/aijkl/booth-analytics-settings/main/Images/adult_warning.png",
-  "blockRules": [
-    {
-      "shopId": "saisai"
+    "blockRules": {
+        "shopId": [ 
+            "saisai",
+            "paletteproject",
+            "iktk",
+            "rvcgirl",
+            "fredrica",
+            "rvc-kishida",
+            "minami-sakura",
+            "naturalvoice",
+            "masimasikun",
+            "naverius",
+            "astra-RVC",
+            "voicervc",
+            "roomton",
+            "ferogma"
+      ]
     },
-    {
-      "shopId": "paletteproject"
-    },
-    {
-      "shopId": "iktk"
-    },
-    {
-      "shopId": "rvcgirl"
-    },
-    {
-      "shopId": "fredrica"
-    },
-    {
-      "shopId": "rvc-kishida"
-    },
-    {
-      "shopId": "minami-sakura"
-    },
-    {
-      "shopId": "naturalvoice"
-    },
-    {
-      "shopId": "masimasikun"
-    },
-    {
-      "shopId": "naverius"
-    },
-    {
-      "shopId": "astra-RVC"
-    },
-    {
-      "shopId": "voicervc"
-    },
-    {
-      "shopId": "roomton"
-    },
-    {
-      "shopId": "ferogma"
-    }
-  ],
   "adultWords": [
     "Splatter",
     "Nipple",

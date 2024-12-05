@@ -1,12 +1,15 @@
 {
   "definitions": {
       "BlockRule": {
-          "type": [
-              "object"
-          ],
+          "type": ["object"],
           "properties": {
-              "shopId": {
-                  "type": "string"
+              "shopId": {             
+                  "type": "array",
+                  "items": {
+                      "type": [
+                          "string"
+                      ]
+                  }
               }
           },
           "required": ["shopId"]
@@ -150,10 +153,8 @@
           "type": "string"
       },
       "blockRules": {
-          "type": "array",
-          "items": {
-              "$ref": "#/definitions/BlockRule"
-          }
+            "type": "object",
+            "$ref": "#/definitions/BlockRule"
       },
       "channelRules": {
           "type": "array",
