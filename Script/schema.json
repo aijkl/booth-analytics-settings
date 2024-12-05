@@ -5,11 +5,9 @@
               "object"
           ],
           "properties": {
-              "shopId": {
-                [
+              "shopId": {             
                   "type": "string"
-                ]
-              }
+          }
           },
           "required": ["shopId"]
       },
