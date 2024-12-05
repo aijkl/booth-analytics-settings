@@ -166,7 +166,9 @@
         },
         "blockRules": {
             "type": "array",
-            "$ref": "#/definitions/BlockRule"
+            "items": {
+                "$ref": "#/definitions/BlockRule"
+            }
         },
         "channelRules": {
             "type": "array",
