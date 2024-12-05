@@ -1,6 +1,6 @@
 {
   "definitions": {
-      "BlockRule": {
+      "BlockRules": {
           "type": ["object"],
           "properties": {
               "shopId": {             
