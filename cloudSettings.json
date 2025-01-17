@@ -6809,6 +6809,40 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1324823881734684835
+        },
+        {
+            "id": "スキミア_Skimmia",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "6214004"
+            ],
+            "productNames": [
+                "スキミア",
+                "Skimmia"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1329827039632687114
         }
     ]
 }
