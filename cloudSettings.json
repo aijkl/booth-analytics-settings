@@ -2195,7 +2195,7 @@
             "channelId": 880986146824400897
         },
         {
-            "id": "メープル",
+            "id": "メープルv2",
             "sql": "",
             "botId": "booth-bot-2",
             "useAvatarRelevanceEvaluation": true,
@@ -2218,10 +2218,13 @@
             ],
             "titleKeywords": [],
             "keywords": [
-                "1948102"
+                "1948102",
+                "メープル",
+                "Maple"
             ],
             "productNames": [
-                "メープル"
+                "メープル",
+                "Maple"
             ],
             "minPrice": 0,
             "minLike": 10,
