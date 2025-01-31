@@ -2195,7 +2195,7 @@
             "channelId": 880986146824400897
         },
         {
-            "id": "メープル",
+            "id": "メープルv2",
             "sql": "",
             "botId": "booth-bot-2",
             "useAvatarRelevanceEvaluation": true,
@@ -2218,10 +2218,13 @@
             ],
             "titleKeywords": [],
             "keywords": [
-                "1948102"
+                "1948102",
+                "メープル",
+                "Maple"
             ],
             "productNames": [
-                "メープル"
+                "メープル",
+                "Maple"
             ],
             "minPrice": 0,
             "minLike": 10,
@@ -6846,6 +6849,75 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1329827039632687114
+        },
+        {
+            "id": "リュオン_Ryuon",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "6540623"
+            ],
+            "productNames": [
+                "リュオン",
+                "Ryuon"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1334984225719582792
+        },
+        {
+            "id": "ジル_Zil",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "6519856",
+                "1975108"
+            ],
+            "productNames": [
+                "ジル",
+                "Zil"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1334985364468924487
         }
     ]
 }
