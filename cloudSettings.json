@@ -6918,6 +6918,40 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1334985364468924487
+        },
+        {
+            "id": "ニクス_Nix",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "6481122"
+            ],
+            "productNames": [
+                "ニクス",
+                "Nix"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1335320429614862446
         }
     ]
 }
