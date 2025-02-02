@@ -6956,7 +6956,7 @@
         {
             "id": "ミルティナ_Milltina",
             "sql": "",
-            "botId": "",
+            "botId": "booth-bot-3",
             "useAvatarRelevanceEvaluation": true,
             "useModifyService": true,
             "categories": [
@@ -6985,7 +6985,7 @@
             ],
             "minPrice": 0,
             "minLike": 10,
-            "channelId": 0
+            "channelId": 1335635854579728425
         }
     ]
 }
