@@ -7461,6 +7461,40 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1383044008045056053
+        },
+        {
+            "id": "ぽちまる_Pochimaru",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "6989943"
+            ],
+            "productNames": [
+                "ぽちまる",
+                "Pochimaru"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1388515740797370488
         }
     ]
 }
