@@ -7,7 +7,7 @@
     "saleCheckIntervalMilliSeconds": 86400000,
     "guildId": 858188499270369322,
     "exceptionChannelId": 863343940249714709,
-    "reminderModifyDays": 5,
+    "reminderModifyDays": 6,
     "modifyStartPage": 1,
     "modifyEndPage": 2,
     "notifyStartPage": 1,
