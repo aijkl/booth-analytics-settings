@@ -7,7 +7,7 @@
     "saleCheckIntervalMilliSeconds": 86400000,
     "guildId": 858188499270369322,
     "exceptionChannelId": 863343940249714709,
-    "reminderModifyDays": 6,
+    "reminderModifyDays": 5,
     "modifyStartPage": 1,
     "modifyEndPage": 2,
     "notifyStartPage": 1,
@@ -400,7 +400,7 @@
             "channelId": 1084853259056979979
         },
         {
-            "id": "新着アバター(良いね数)",
+            "id": "新着アバター(良いね数100)",
             "sql": "",
             "botId": "booth-bot-1",
             "useAvatarRelevanceEvaluation": false,
@@ -424,7 +424,7 @@
             "channelId": 869793035217666109
         },
         {
-            "id": "新着アバター(良いね数2)",
+            "id": "新着アバター(良いね数500)",
             "sql": "",
             "botId": "booth-bot-1",
             "useAvatarRelevanceEvaluation": false,
@@ -448,7 +448,7 @@
             "channelId": 906346810413568051
         },
         {
-            "id": "新着アバター(良いね数3)",
+            "id": "新着アバター(良いね数1000)",
             "sql": "",
             "botId": "booth-bot-1",
             "useAvatarRelevanceEvaluation": false,
@@ -470,6 +470,30 @@
             "minPrice": 0,
             "minLike": 1000,
             "channelId": 1142799953467539466
+        },
+        {
+            "id": "新着アバター(良いね数2000)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 2000,
+            "channelId": 1499099351195058196
         },
         {
             "id": "新着アバター(値段)",
