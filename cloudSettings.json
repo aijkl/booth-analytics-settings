@@ -7587,6 +7587,433 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1499945745917284432
+        },        {
+            "id": "カプリィナ_Caprilina",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7916420"
+            ],
+            "productNames": [
+                "カプリィナ",
+                "Caprilina"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499960111303622666
+        },        {
+            "id": "クマリ_Kumaly",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7928592"
+            ],
+            "productNames": [
+                "クマリ",
+                "Kumaly"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499960952936730694
+        },        {
+            "id": "Nakiya_泣夜",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7924603"
+            ],
+            "productNames": [
+                "Nakiya",
+                "泣夜"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961015213756588
+        },        {
+            "id": "あゆさ_Ayusa",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7879930"
+            ],
+            "productNames": [
+                "あゆさ",
+                "Ayusa"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961088647757946
+        },        {
+            "id": "Maon_7800632",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7800632"
+            ],
+            "productNames": [
+                "Maon"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961162278895617
+        },        {
+            "id": "とらお_Torao",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7767291"
+            ],
+            "productNames": [
+                "とらお",
+                "Torao"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961264854536224
+        },        {
+            "id": "Wendy_ウェンディ",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7841391"
+            ],
+            "productNames": [
+                "Wendy",
+                "ウェンディ"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961332559249448
+        },        {
+            "id": "咲蛇_Sachi",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7824394"
+            ],
+            "productNames": [
+                "咲蛇",
+                "Sachi"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961390004441160
+        },        {
+            "id": "深澄_Misumi",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7763002"
+            ],
+            "productNames": [
+                "深澄",
+                "Misumi"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961441246122105
+        },        {
+            "id": "KAGURA_7797764",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7797764"
+            ],
+            "productNames": [
+                "KAGURA"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961497202458785
+        },        {
+            "id": "ロコナ_Rokona",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7682496"
+            ],
+            "productNames": [
+                "ロコナ",
+                "Rokona"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961572464922634
+        },        {
+            "id": "れう_LEU",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "4789903"
+            ],
+            "productNames": [
+                "れう",
+                "LEU"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499961681533735105
+        },        {
+            "id": "ヒビキ_HIBIKI",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "7246910"
+            ],
+            "productNames": [
+                "ヒビキ",
+                "HIBIKI"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1499962198699540512
         }
     ]
 }
