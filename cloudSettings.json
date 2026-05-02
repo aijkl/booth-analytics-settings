@@ -496,6 +496,78 @@
             "channelId": 1499099351195058196
         },
         {
+            "id": "新着アバター(良いね数3000)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 3000,
+            "channelId": 1500202842877722704
+        },
+        {
+            "id": "新着アバター(良いね数5000)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 5000,
+            "channelId": 1500202968547459113
+        },
+        {
+            "id": "新着アバター(良いね数10k)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 10000,
+            "channelId": 1500203172306620486
+        },
+        {
             "id": "新着アバター(値段)",
             "sql": "",
             "botId": "booth-bot-1",
