@@ -568,6 +568,102 @@
             "channelId": 1500203172306620486
         },
         {
+            "id": "新着アバター(良いね数20k)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 20000,
+            "channelId": 1500242282324955257
+        },
+        {
+            "id": "新着アバター(良いね数30k)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 30000,
+            "channelId": 1500242316500271335
+        },
+        {
+            "id": "新着アバター(良いね数40k)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 40000,
+            "channelId": 1500242403280425120
+        },
+        {
+            "id": "新着アバター(良いね数50k)",
+            "sql": "",
+            "botId": "booth-bot-1",
+            "useAvatarRelevanceEvaluation": false,
+            "useModifyService": true,
+            "categories": [
+                "3Dキャラクター"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [],
+            "productNames": [],
+            "minPrice": 0,
+            "minLike": 50000,
+            "channelId": 1500242447425470594
+        },
+        {
             "id": "新着アバター(値段)",
             "sql": "",
             "botId": "booth-bot-1",
