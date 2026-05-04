@@ -884,7 +884,7 @@
             "id": "もちふぃった_Mochi-Fitter",
             "sql": "",
             "botId": "booth-bot-2",
-            "useAvatarRelevanceEvaluation": true,
+            "useAvatarRelevanceEvaluation": false,
             "useModifyService": true,
             "categories": [
                 "3Dキャラクター",
