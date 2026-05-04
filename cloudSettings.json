@@ -887,9 +887,11 @@
             "useAvatarRelevanceEvaluation": true,
             "useModifyService": true,
             "categories": [
+                "3Dキャラクター",
                 "3D衣装",
                 "3D装飾品",
                 "3Dモデル（その他）",
+                "3Dツール・システム",
                 "ゲーム関連商品",
                 "素材（その他）",
                 "アクセサリー（その他）"
