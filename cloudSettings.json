@@ -9242,6 +9242,39 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1508026495417978990
+        },        {
+            "id": "宵月_yozuki",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "8419420"
+            ],
+            "productNames": [
+                "宵月",
+                "yozuki"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1510056933367742484
         }
     ]
 }
