@@ -1,6 +1,6 @@
 {
     "keyword": "VRChat",
-    "fetchIntervalMilliSeconds": 120000,
+    "fetchIntervalMilliSeconds": 600000,
     "updateIntervalMilliSeconds": 5400000,
     "modifyIntervalMilliSeconds": 8000,
     "notifyIntervalMilliSeconds": 20000,
