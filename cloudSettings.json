@@ -9505,6 +9505,72 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1519639874339344474
+        },        {
+            "id": "LUCENTEZZA_ルセンテッツァ",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "8596526"
+            ],
+            "productNames": [
+                "LUCENTEZZA",
+                "ルセンテッツァ"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1526744407792160839
+        },        {
+            "id": "輝夜_kaguya",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "8562330"
+            ],
+            "productNames": [
+                "輝夜",
+                "kaguya"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1526744495629009037
         }
     ]
 }
