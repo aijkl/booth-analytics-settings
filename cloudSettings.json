@@ -9694,6 +9694,40 @@
             "minPrice": 0,
             "minLike": 10,
             "channelId": 1542645610220363967
+        },        
+        {
+            "id": "ソルト_salt",
+            "sql": "",
+            "botId": "booth-bot-3",
+            "useAvatarRelevanceEvaluation": true,
+            "useModifyService": true,
+            "categories": [
+                "3D衣装",
+                "3D装飾品",
+                "3Dモデル（その他）",
+                "ゲーム関連商品",
+                "素材（その他）",
+                "アクセサリー（その他）"
+            ],
+            "excludeKeywords": [
+                "RVC",
+                "TTS",
+                "ボイス",
+                "アクリルキーホルダー",
+                "ネイル",
+                "Nail"
+            ],
+            "titleKeywords": [],
+            "keywords": [
+                "8962830"
+            ],
+            "productNames": [
+                "ソルト",
+                "salt"
+            ],
+            "minPrice": 0,
+            "minLike": 10,
+            "channelId": 1563488907759194132
         }
     ]
 }
